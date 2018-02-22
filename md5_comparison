@@ -1,0 +1,679 @@
+d5f724118af8db380078070ccdb11cc8	11-2091-1.recal.bam   |	71f76f3e21fc7c6d5f7df1abfea1609c  AD3_23.recal.bam
+75ceef7bdbd2aaf125dde66036fc30ca	11-2100.recal.bam     |	f8069cb24792ace71d15ca5c8a823560  AD3_25.recal.bam
+b1cb9e6fd788cb465021bed278465ffa	A2D1.recal.bam	      |	2ac845660bfc6dbd3844de0fb5067cfd  AD3-26.recal.bam
+4ffef5ba50863e01c84ddaa27ce0f4be	A2D3.recal.bam	      |	97bc0ffdf84b375a90c05a813456cb7d  AD3-7.recal.bam
+411cc7496d594107e08f7320dd5c52a7	AD3-14.recal.bam      |	d92408abbab966ba6562d458cf86947a  AD4_10.recal.bam
+71f76f3e21fc7c6d5f7df1abfea1609c	AD3_23.recal.bam      |	7e3c6afb8dff4f9eee657ced84ae4d02  AD4-16.recal.bam
+f8069cb24792ace71d15ca5c8a823560	AD3_25.recal.bam      |	9923fc4b34579670a274f0728d15a44c  AD5_CB3087.recal.bam
+2ac845660bfc6dbd3844de0fb5067cfd	AD3-26.recal.bam      |	ff7c08572e6f254bcdc4da6e69ed4687  AD5_PW45.recal.bam
+97bc0ffdf84b375a90c05a813456cb7d	AD3-7.recal.bam	      |	374e01a9949736564f0b51384f0242a3  BPS1148.recal.bam
+93baa49c7bdb0026c86c0f2f19674063	AD3.recal.bam	      |	65a94bd1f6c969723771e7d2a67f1055  BPS1149.recal.bam
+d92408abbab966ba6562d458cf86947a	AD4_10.recal.bam      |	9610e86e764096869baaffa62449a111  BPS1151.recal.bam
+7e3c6afb8dff4f9eee657ced84ae4d02	AD4-16.recal.bam      |	1825b176f265e31dc61416cbb368966d  BPS1152.recal.bam
+551fc140f9845f42b257bbb5cc632240	AD4.recal.bam	      |	0fbf1ee46e27c01bbb6b424a78218c84  BPS1157.recal.bam
+1254d8906318766055561ed08c0c7a6a	AD4-W400.recal.bam    |	9a09ecdd2285ef3532c3c18b3f078769  BPS1173.recal.bam
+30ab1cb0724a24f9fb7bd979574af4bc	AD5-2.recal.bam	      |	58fda75880cccc4720991424a3fb05ba  BPS1206.recal.bam
+9923fc4b34579670a274f0728d15a44c	AD5_CB3087.recal.bam  |	3436b0653f1014a6771114854c30dfc7  BPS1207.recal.bam
+ff7c08572e6f254bcdc4da6e69ed4687	AD5_PW45.recal.bam    |	a6029762a110a1afa740f5d38ba9a48c  BPS1238.recal.bam
+889d835de19422eb383965904e6779b5	AD5.recal.bam	      |	a0a345e2292b38e839dabc2b96abb513  BPS1239.recal.bam
+93659926bb4a4053fbce7a0c0bf24baf	AD6_TX_2263.recal.bam |	f967a004fc32eaf35f4643c74f93a3c3  BPS1240.recal.bam
+47b9425bfd88523e644a4381ff64dbc6	AD7_Pearl1B.recal.bam |	0de89e7aa5c160b16c2b2b54ceae9dc8  BPS1242.recal.bam
+2ef488e667687ab3ddbd1fcad52f5ed5	AD7.recal.bam	      |	c6ed92f7f57b3868b3a7e3c9f563f33b  BPS1244.recal.bam
+374e01a9949736564f0b51384f0242a3	BPS1148.recal.bam     |	8052db65ca2c7ac1892f9c953a7248c3  BPS1247.recal.bam
+65a94bd1f6c969723771e7d2a67f1055	BPS1149.recal.bam     |	2862aa206ed3ad6c0277f289578b42b0  Del.SmallGZ.sh
+9610e86e764096869baaffa62449a111	BPS1151.recal.bam     |	d20aea7e53f1c8b538470ccd14dd8b32  DIV_002.recal.bam
+1825b176f265e31dc61416cbb368966d	BPS1152.recal.bam     |	5784892f0c496cd8bed3a86f7ae1dd8e  DIV_012.recal.bam
+0fbf1ee46e27c01bbb6b424a78218c84	BPS1157.recal.bam     |	2cbb05171a4b3c88b222ea1ef90893a2  DIV_030.recal.bam
+9a09ecdd2285ef3532c3c18b3f078769	BPS1173.recal.bam     |	d5e1b89749b33c6b3be7ac1891a1a1a3  DIV_033.recal.bam
+58fda75880cccc4720991424a3fb05ba	BPS1206.recal.bam     |	f6a2b7d719582af6d9a2ca289bb4f27b  DIV_034.recal.bam
+3436b0653f1014a6771114854c30dfc7	BPS1207.recal.bam     |	3169ca6ae19224a9aa84d55861dfecf4  DIV_040.recal.bam
+2502852b0c5f9b3173aa72492a5efcc9	BPS1209.recal.bam     |	7fa820f99bee5b407e11ca213b43a4bc  DIV_042.recal.bam
+a6029762a110a1afa740f5d38ba9a48c	BPS1238.recal.bam     |	e889fd40c1ef35453b311e0015f7eab6  DIV_046.recal.bam
+a0a345e2292b38e839dabc2b96abb513	BPS1239.recal.bam     |	a196a3050eb51f10913f4f9e1ed51cc8  DIV_048.recal.bam
+f967a004fc32eaf35f4643c74f93a3c3	BPS1240.recal.bam     |	e5c1bfcbcce02e1ce985f8c1409cea9b  DIV_055.recal.bam
+0de89e7aa5c160b16c2b2b54ceae9dc8	BPS1242.recal.bam     |	a244f5e6512f9b8afd324f58dd4cc119  DIV_059.recal.bam
+c6ed92f7f57b3868b3a7e3c9f563f33b	BPS1244.recal.bam     |	8c3f922a551739aea418105a2e1bfc03  DIV_063.recal.bam
+8052db65ca2c7ac1892f9c953a7248c3	BPS1247.recal.bam     |	fe1eedfb6347d1ec046e7bd751bbc3a2  DIV_066.recal.bam
+b339cb836089c71dbbd1f8b82b13b966	Coastland-320.recal.b |	111e2821ede018a9cc3274c4d7ef9eed  DIV_074.recal.bam
+b5f6c8af687e1d55cb5d0799473a5630	Coker_312.recal.bam   |	54714f87e9982fc192a191e5cef9b76a  DIV_079.recal.bam
+d20aea7e53f1c8b538470ccd14dd8b32	DIV_002.recal.bam     |	3128fc73da62c1b31ea4aab9df2f99a4  DIV_096.recal.bam
+7976d8fcebcfa815f3a0ee116633a581	DIV007.recal.bam      |	7d1a6b909002e92039e4cac6221532ee  DIV_106.recal.bam
+5784892f0c496cd8bed3a86f7ae1dd8e	DIV_012.recal.bam     |	e37cc2839dea6a69479db3fb9554770d  DIV_134.recal.bam
+2cbb05171a4b3c88b222ea1ef90893a2	DIV_030.recal.bam     |	41a03d2805d2f4f7ce26ec56c264c079  DIV_136.recal.bam
+d5e1b89749b33c6b3be7ac1891a1a1a3	DIV_033.recal.bam     |	ad0ba1665ca801d331d6aea538e63c54  DIV_141.recal.bam
+f6a2b7d719582af6d9a2ca289bb4f27b	DIV_034.recal.bam     |	cdc109dbdca2b6e6350632675392602f  DIV_144.recal.bam
+0587d26fa422c86f58a5386646b5f88c	Div037.recal.bam      |	aa7a07734adac931a199982b8fed5657  DIV_169.recal.bam
+3169ca6ae19224a9aa84d55861dfecf4	DIV_040.recal.bam     |	5fdb7b66c865f268bb402c1a774ab890  DIV_176.recal.bam
+7fa820f99bee5b407e11ca213b43a4bc	DIV_042.recal.bam     |	270dcfa9a1a28833bfb207147f4bd223  DIV_178.recal.bam
+e889fd40c1ef35453b311e0015f7eab6	DIV_046.recal.bam     |	00ac34abf64c04fc9713412478fb66bd  DIV_184.recal.bam
+a196a3050eb51f10913f4f9e1ed51cc8	DIV_048.recal.bam     |	7fdf4dbe36eef8b08a34d01b1ef1af5e  DIV_195.recal.bam
+e5c1bfcbcce02e1ce985f8c1409cea9b	DIV_055.recal.bam     |	3f555a830d39bbcf35e5ef71330d66bb  DIV_206.recal.bam
+d15df1ea2df0de5764b9e4cdb92d745a	DIV058.recal.bam      |	6570a810bf912724e88a22b4cdeab81d  DIV_209.recal.bam
+a244f5e6512f9b8afd324f58dd4cc119	DIV_059.recal.bam     |	e0c9beb45a7af440433857a99d09f11f  DIV_211.recal.bam
+8c3f922a551739aea418105a2e1bfc03	DIV_063.recal.bam     |	8150defcdc94d3899cee3282fe929e57  DIV_230.recal.bam
+fe1eedfb6347d1ec046e7bd751bbc3a2	DIV_066.recal.bam     |	9a8037987dcc487cb2679d2d31df8e08  DIV_232.recal.bam
+111e2821ede018a9cc3274c4d7ef9eed	DIV_074.recal.bam     |	bb5ead7e60fceb7df53c7173a059c131  DIV_237.recal.bam
+54714f87e9982fc192a191e5cef9b76a	DIV_079.recal.bam     |	9edf6e91b62c44eb250730fc248faf54  DIV_245.recal.bam
+3128fc73da62c1b31ea4aab9df2f99a4	DIV_096.recal.bam     |	cadc13bc2503e0b859c34495051b38f0  DIV_246.recal.bam
+7d1a6b909002e92039e4cac6221532ee	DIV_106.recal.bam     |	7a3fb3d2a52abab826524acaef77c12d  DIV_249.recal.bam
+937bc5dee7b1e6618c84011c8be00902	DIV119.recal.bam      |	4e8d005083985d0758b02f874e840d2d  DIV_255.recal.bam
+e37cc2839dea6a69479db3fb9554770d	DIV_134.recal.bam     |	35544e07515021c3a6cd2ff838395876  DIV_256.recal.bam
+41a03d2805d2f4f7ce26ec56c264c079	DIV_136.recal.bam     |	d6a42d9c096e2c0b430c0c240ef251ab  DIV_260.recal.bam
+aaee2de8a2d4d63f8680a5a4bae18986	DIV-138.recal.bam     |	886c06baafdfaa88ccf71229529cf942  DIV_263.recal.bam
+ad0ba1665ca801d331d6aea538e63c54	DIV_141.recal.bam     |	d98c24ac33925edc9d782a17b078c20c  DIV_264.recal.bam
+cdc109dbdca2b6e6350632675392602f	DIV_144.recal.bam     |	0d428034c9c622a8a18975f638026c36  DIV_269.recal.bam
+aa7a07734adac931a199982b8fed5657	DIV_169.recal.bam     |	9d0a0e1670c40fe2b467ff7388861bb6  DIV_272.recal.bam
+5fdb7b66c865f268bb402c1a774ab890	DIV_176.recal.bam     |	49363bc268ab85afbadffb75f4fc6369  DIV_289.recal.bam
+270dcfa9a1a28833bfb207147f4bd223	DIV_178.recal.bam     |	52455b776a5b406aa8f3049b39340210  DIV_293.recal.bam
+00ac34abf64c04fc9713412478fb66bd	DIV_184.recal.bam     |	b1a94f9fe3e1fea8113e6914d39331c1  DIV_296.recal.bam
+7fdf4dbe36eef8b08a34d01b1ef1af5e	DIV_195.recal.bam     |	e330517bd2e86ada590c156ce7b8cfdc  DIV_298.recal.bam
+14d7cd69ec5c609596be956b939e3b06	DIV-199.recal.bam     |	fcf6b51fc608d641a4083f59c616ab1e  DIV_306.recal.bam
+3f555a830d39bbcf35e5ef71330d66bb	DIV_206.recal.bam     |	62e67a7acf550d757b1460fb4bea6a18  DIV_308.recal.bam
+6570a810bf912724e88a22b4cdeab81d	DIV_209.recal.bam     |	cb58a882582fca8f4c0f3f99a60fa363  DIV_316.recal.bam
+e0c9beb45a7af440433857a99d09f11f	DIV_211.recal.bam     |	7b5e0f3f3b6cc16bd61f3b3efbd48657  DIV_319.recal.bam
+d419bdd97e89447bbd66479409a636a3	DIV-213.recal.bam     |	cd696a7b0a2b0f3fad67e740a876c23c  DIV_322.recal.bam
+391646bbfa218f9d331a909dcdbc92a1	DIV-226.recal.bam     |	3f4bf834fb1a89a215572ada0aa30f72  DIV_347.recal.bam
+8150defcdc94d3899cee3282fe929e57	DIV_230.recal.bam     |	6177a2dde2256f5acc83d117672b182a  DIV_351.recal.bam
+9a8037987dcc487cb2679d2d31df8e08	DIV_232.recal.bam     |	943c6190d0df9f96a1574c3ae0cb5a6a  DIV_355.recal.bam
+bb5ead7e60fceb7df53c7173a059c131	DIV_237.recal.bam     |	fcb7f092cc44aae6aaa9d6c695f97988  DIV_363.recal.bam
+effe92ce6ff1d46af65d20a663ec51dd	Div243.recal.bam      |	24c79a98ebc0d59497572030fa9c5005  DIV_366.recal.bam
+9edf6e91b62c44eb250730fc248faf54	DIV_245.recal.bam     |	169806fe02a7690b992414f3639c423e  DIV_373.recal.bam
+cadc13bc2503e0b859c34495051b38f0	DIV_246.recal.bam     |	fcec4171c426e16759e54d8d19ba3552  DIV_380.recal.bam
+7a3fb3d2a52abab826524acaef77c12d	DIV_249.recal.bam     |	bb259bbf2d0fa6eccd1427e7bc3a2f48  G2223.recal.bam
+4e8d005083985d0758b02f874e840d2d	DIV_255.recal.bam     |	9cb85cd597d4875a8d228bc5d985306a  GB-0034.recal.bam
+35544e07515021c3a6cd2ff838395876	DIV_256.recal.bam     |	0213f9692986d603f7831473e47ef764  GB-0049.recal.bam
+d6a42d9c096e2c0b430c0c240ef251ab	DIV_260.recal.bam     |	d7cdc9fe76ff6342ccfe75a442dd5fe6  GB-0051.recal.bam
+886c06baafdfaa88ccf71229529cf942	DIV_263.recal.bam     |	c6fafa2d9f79d620ed646a17ba1bac53  GB-0052.recal.bam
+d98c24ac33925edc9d782a17b078c20c	DIV_264.recal.bam     |	c114e87347756a357d6dbc917ec97f73  GB-0053.recal.bam
+0d428034c9c622a8a18975f638026c36	DIV_269.recal.bam     |	92fdb1bd2b71d36d29dfd8cba48bbeb6  GB_0085.recal.bam
+9d0a0e1670c40fe2b467ff7388861bb6	DIV_272.recal.bam     |	e50b762ab128780fce13d61cb00589c3  GB-0087.recal.bam
+a24d652fd3cc5a309b143e209cb0c609	Div273.recal.bam      |	888ce1756f59b68e5c9f4ef2c21c7763  GB_0091.recal.bam
+49363bc268ab85afbadffb75f4fc6369	DIV_289.recal.bam     |	1f843f6fdac358a91ae212b26926b5d0  GB-0093.recal.bam
+52455b776a5b406aa8f3049b39340210	DIV_293.recal.bam     |	f3ba9624014d294a1c80c86866914845  GB-0095.recal.bam
+b1a94f9fe3e1fea8113e6914d39331c1	DIV_296.recal.bam     |	9f39a7ee6cf6fc48709414616a43435c  GB-0102.recal.bam
+e330517bd2e86ada590c156ce7b8cfdc	DIV_298.recal.bam     |	a9dccfe6de1023d8c5ef5390866440c3  GB-0113.recal.bam
+e5fced381c49f6240eba6cb9f717d0ff	Div305.recal.bam      |	bd79d5ee66dc4c20c7389933c9bdbd9f  GB-0119.recal.bam
+fcf6b51fc608d641a4083f59c616ab1e	DIV_306.recal.bam     |	45c4cf3932a7bb03809fd75b35bed17f  GB-0128.recal.bam
+eed211cb8611a6b1a5a1097cfdaaf07c	Div-307.recal.bam     |	da1870adf10ae90a9464edf8e25d32a0  GB-0136.recal.bam
+62e67a7acf550d757b1460fb4bea6a18	DIV_308.recal.bam     |	4edcab1ce3ffe8d16c67fbb8896bd277  GB-0140.recal.bam
+977b605444ba82a7f19066e4bf3ede95	DIV-310.recal.bam     |	3a58317ed925084db5bbfb51d5ff3ff6  GB_0144.recal.bam
+cb58a882582fca8f4c0f3f99a60fa363	DIV_316.recal.bam     |	3fae3abaa145308df835b9f9db146dfa  GB-0156.recal.bam
+7b5e0f3f3b6cc16bd61f3b3efbd48657	DIV_319.recal.bam     |	2cd7c8557e2b4c3c7a2dcb86424c2b25  GB-0167.recal.bam
+cd696a7b0a2b0f3fad67e740a876c23c	DIV_322.recal.bam     |	b63aac07a5fa83fcab22d3646feb20c1  GB-0169.recal.bam
+3f4bf834fb1a89a215572ada0aa30f72	DIV_347.recal.bam     |	dc90099ed5e3463a107895f1e0d083c1  GB-0176.recal.bam
+6177a2dde2256f5acc83d117672b182a	DIV_351.recal.bam     |	25807acf4335b50d4b59df120c89395e  GB-0181.recal.bam
+943c6190d0df9f96a1574c3ae0cb5a6a	DIV_355.recal.bam     |	8b7987945c88622d67857fab1b89ab7d  GB-0183.recal.bam
+fcb7f092cc44aae6aaa9d6c695f97988	DIV_363.recal.bam     |	f802757985c968c33e9f7a856e74e4ed  GB_0192.recal.bam
+0c555cdd5e270e93a67d50e80e30647e	DIV-364.recal.bam     |	43209e307a520b2f15c77425e9ced7a5  GB_0193.recal.bam
+24c79a98ebc0d59497572030fa9c5005	DIV_366.recal.bam     |	2b801509199174437a0d71d3a525f965  GB_0204.recal.bam
+169806fe02a7690b992414f3639c423e	DIV_373.recal.bam     |	d10ea1fb737e8c1ea63033ad839953f5  GB-0211.recal.bam
+fcec4171c426e16759e54d8d19ba3552	DIV_380.recal.bam     |	0426a0432f0fa58c37ac434d4e925622  GB-0212.recal.bam
+754932c4f25cb39837f6a3de1a794cf3	Div-382.recal.bam     |	3bfa53cdad2053ca139ae4dff64d743a  GB_0220.recal.bam
+125f3ac12ce0c5223fcf8b3a6c280742	DP340.recal.bam	      |	fdcbe5a4e257268fab2733f19478ee80  GB_0224.recal.bam
+fce069f9281da0c3e9ad15010a96c97c	DP5690.recal.bam      |	0d9c7c50ac55dfea437445c0cbf2fbf1  GB-0227.recal.bam
+6d939a7e6e0a0b3054a66eea62a853d2	FM832.recal.bam	      |	f2116bc6d852aebc5a463ed199cde440  GB_0230.recal.bam
+bb259bbf2d0fa6eccd1427e7bc3a2f48	G2223.recal.bam	      |	519805b063645cc197d22b1c43a461fe  GB-0232.recal.bam
+9cb85cd597d4875a8d228bc5d985306a	GB-0034.recal.bam     |	4b3aff112150ad38e39f78aba4506f42  GB_0238.recal.bam
+0213f9692986d603f7831473e47ef764	GB-0049.recal.bam     |	8ff1a664d258f8e8587689ab17fe8127  GB-0242.recal.bam
+d7cdc9fe76ff6342ccfe75a442dd5fe6	GB-0051.recal.bam     |	a99fdc8de590a17e773adf9cb2e702ea  GB-0245.recal.bam
+c6fafa2d9f79d620ed646a17ba1bac53	GB-0052.recal.bam     |	2926bc5553c7af4aefe6b9b9e88d5774  GB_0249.recal.bam
+c114e87347756a357d6dbc917ec97f73	GB-0053.recal.bam     |	42abeac795ae56a132c88e8536407115  GB_0251.recal.bam
+92fdb1bd2b71d36d29dfd8cba48bbeb6	GB_0085.recal.bam     |	368c5ea49e1fd81acf9e9b1c8b281219  GB_0252.recal.bam
+e50b762ab128780fce13d61cb00589c3	GB-0087.recal.bam     |	a0cbfce81e594f2ca3fea69c169bb583  GB_0254.recal.bam
+888ce1756f59b68e5c9f4ef2c21c7763	GB_0091.recal.bam     |	da69880a10095b70596ef03f31e226a6  GB_0255.recal.bam
+1f843f6fdac358a91ae212b26926b5d0	GB-0093.recal.bam     |	23ba306687768fb0e05c183db2be03a1  GB_0258.recal.bam
+f3ba9624014d294a1c80c86866914845	GB-0095.recal.bam     |	c386bf79ec326e06a8219bcc2d52821c  GB_0262.recal.bam
+9f39a7ee6cf6fc48709414616a43435c	GB-0102.recal.bam     |	744f7fd84eddf190b1456d6780b9c2f6  GB-0264.recal.bam
+a9dccfe6de1023d8c5ef5390866440c3	GB-0113.recal.bam     |	c9b6a16b86ea16b08fb46b353dfee85f  GB-0273.recal.bam
+bd79d5ee66dc4c20c7389933c9bdbd9f	GB-0119.recal.bam     |	dd9ede823f04ecca5ecc7c00f0b594e3  GB_0275.recal.bam
+45c4cf3932a7bb03809fd75b35bed17f	GB-0128.recal.bam     |	d99702954fdf8a0b244a0cf645fd6e0f  GB-0278.recal.bam
+da1870adf10ae90a9464edf8e25d32a0	GB-0136.recal.bam     |	44b1f9b901cbf0e4c1d86d7812cd7574  GB-0281.recal.bam
+4edcab1ce3ffe8d16c67fbb8896bd277	GB-0140.recal.bam     |	11dcc5bd7794a095857a5873150cda73  GB_0303.recal.bam
+3a58317ed925084db5bbfb51d5ff3ff6	GB_0144.recal.bam     |	2b4b8fcfeead3bdff7d0387e6cffe169  GB-0307.recal.bam
+3fae3abaa145308df835b9f9db146dfa	GB-0156.recal.bam     |	879569d573586437c8832bdce28a325d  GB_0309.recal.bam
+2cd7c8557e2b4c3c7a2dcb86424c2b25	GB-0167.recal.bam     |	9ce7a397f9599c594e374dd8819c48bf  GB_0313.recal.bam
+b63aac07a5fa83fcab22d3646feb20c1	GB-0169.recal.bam     |	7349fe19dfa52506c4bd67157147820d  GB_0314.recal.bam
+dc90099ed5e3463a107895f1e0d083c1	GB-0176.recal.bam     |	3beca3f267522c10549a7bbeb7a872fe  GB_0320.recal.bam
+25807acf4335b50d4b59df120c89395e	GB-0181.recal.bam     |	a5f018c40b5343ede236382af69e387f  GB_0333.recal.bam
+8b7987945c88622d67857fab1b89ab7d	GB-0183.recal.bam     |	847b2785fb7e0994932bb3d166c4de7d  GB-0335.recal.bam
+f802757985c968c33e9f7a856e74e4ed	GB_0192.recal.bam     |	baf7f2a28b75f94ceb6225a6e90310f5  GB-0337.recal.bam
+43209e307a520b2f15c77425e9ced7a5	GB_0193.recal.bam     |	7f976d9eefb89f405f46343bfd2b607b  GB_0339.recal.bam
+2b801509199174437a0d71d3a525f965	GB_0204.recal.bam     |	25e77a55f97fa6133a446833fafcc08f  GB-0348.recal.bam
+d10ea1fb737e8c1ea63033ad839953f5	GB-0211.recal.bam     |	bee9e95b35e2dd2fdc45f87a9d21eae9  GB_0349.recal.bam
+0426a0432f0fa58c37ac434d4e925622	GB-0212.recal.bam     |	05a557dffbb99221346a4b9e1c95b0c8  GB-0358.recal.bam
+3bfa53cdad2053ca139ae4dff64d743a	GB_0220.recal.bam     |	a99c926fe82534e7cc180e30266e4ed9  GB-0359.recal.bam
+fdcbe5a4e257268fab2733f19478ee80	GB_0224.recal.bam     |	2cc2ab385e9e18f663f74457bc24dfe3  GB-0361.recal.bam
+0d9c7c50ac55dfea437445c0cbf2fbf1	GB-0227.recal.bam     |	03affd9ab8c7d6a9f0f169c680586414  GB-0371.recal.bam
+f2116bc6d852aebc5a463ed199cde440	GB_0230.recal.bam     |	e4a6641a0417a0d8504d9812eff2db8c  GB-0376.recal.bam
+519805b063645cc197d22b1c43a461fe	GB-0232.recal.bam     |	46cfc28d5b8376274e7f64db8075848e  GB-0377.recal.bam
+4b3aff112150ad38e39f78aba4506f42	GB_0238.recal.bam     |	70f340be93701de1d5e2524a316c2e16  GB-0382.recal.bam
+8ff1a664d258f8e8587689ab17fe8127	GB-0242.recal.bam     |	74f96552d0e6d947981de914b5c90fce  GB-0386.recal.bam
+a99fdc8de590a17e773adf9cb2e702ea	GB-0245.recal.bam     |	56343a0dd93bbcaced05ae6b88fcbde9  GB-0394.recal.bam
+2926bc5553c7af4aefe6b9b9e88d5774	GB_0249.recal.bam     |	7134fb9282d3ece9bb9e7a09f054dc61  GB_0426.recal.bam
+42abeac795ae56a132c88e8536407115	GB_0251.recal.bam     |	3e2d386e4ca68bbc827d74fda7cb8606  GB_0428.recal.bam
+368c5ea49e1fd81acf9e9b1c8b281219	GB_0252.recal.bam     |	bea55a021ef8b1548f44ea9540ac044e  GB_0429.recal.bam
+a0cbfce81e594f2ca3fea69c169bb583	GB_0254.recal.bam     |	658286ada2d50d8399f6b38c8359804a  GB-0430.recal.bam
+da69880a10095b70596ef03f31e226a6	GB_0255.recal.bam     |	13105ed0d1fdddb307e8c7345f5d1797  GB-0434.recal.bam
+23ba306687768fb0e05c183db2be03a1	GB_0258.recal.bam     |	f3ab8887a45f9129769567030ada5b23  GB-0440.recal.bam
+c386bf79ec326e06a8219bcc2d52821c	GB_0262.recal.bam     |	17451821c83603f21985ab64dd067247  GB-0457.recal.bam
+744f7fd84eddf190b1456d6780b9c2f6	GB-0264.recal.bam     |	b205553f6829e8b9d46602ceb7417548  GB_0461.recal.bam
+c9b6a16b86ea16b08fb46b353dfee85f	GB-0273.recal.bam     |	bd6e562c262918e6b2b59cc6d811b76b  GB_0467.recal.bam
+dd9ede823f04ecca5ecc7c00f0b594e3	GB_0275.recal.bam     |	ffe24221ac2a27a71d6655b525a97081  GB-0489.recal.bam
+d99702954fdf8a0b244a0cf645fd6e0f	GB-0278.recal.bam     |	dd56098f2b2ee70d66d0594ae6c5641c  GB-0517.recal.bam
+44b1f9b901cbf0e4c1d86d7812cd7574	GB-0281.recal.bam     |	f4040351bb87d5a476ab183f8659f83f  GB-0524.recal.bam
+11dcc5bd7794a095857a5873150cda73	GB_0303.recal.bam     |	f4e5e7c290da1f5ed9130fe87318e117  GB-0533.recal.bam
+2b4b8fcfeead3bdff7d0387e6cffe169	GB-0307.recal.bam     |	2cab7679432b263ab5c5a7982a6ed806  GB-0536.recal.bam
+879569d573586437c8832bdce28a325d	GB_0309.recal.bam     |	403d56e00cb5dc59d48c4a2caab46359  GB_0542.recal.bam
+9ce7a397f9599c594e374dd8819c48bf	GB_0313.recal.bam     |	b5b2a3434098ccc3f27e87681dd40e6e  GB-0569.recal.bam
+7349fe19dfa52506c4bd67157147820d	GB_0314.recal.bam     |	fcc1daec9c914695b3492fde9155863a  GB-0571.recal.bam
+3beca3f267522c10549a7bbeb7a872fe	GB_0320.recal.bam     |	e9fa188a2402c4f481a6a29a315395c5  GB-0593.recal.bam
+a5f018c40b5343ede236382af69e387f	GB_0333.recal.bam     |	3f869b8f51d99952689d3de18ecce81b  GB-0594.recal.bam
+847b2785fb7e0994932bb3d166c4de7d	GB-0335.recal.bam     |	45850e8988ea2650067906904fab2f07  GB_0600.recal.bam
+baf7f2a28b75f94ceb6225a6e90310f5	GB-0337.recal.bam     |	44bb9408a3e36c2a9cf82e3d00d1a176  GB-0623.recal.bam
+7f976d9eefb89f405f46343bfd2b607b	GB_0339.recal.bam     |	1a179069ba99b8e6030a9d9ac6308392  GB_0631.recal.bam
+25e77a55f97fa6133a446833fafcc08f	GB-0348.recal.bam     |	38ac2cbd36b28824df4b397f80c13441  GB-0636.recal.bam
+bee9e95b35e2dd2fdc45f87a9d21eae9	GB_0349.recal.bam     |	a37167a9c8ad09ea685df1ecdb2d8ebf  GB_0647.recal.bam
+05a557dffbb99221346a4b9e1c95b0c8	GB-0358.recal.bam     |	dae5236bdba5c5714d50c06689830247  GB_0648.recal.bam
+a99c926fe82534e7cc180e30266e4ed9	GB-0359.recal.bam     |	cef29a5d8af0ea4d8b9f493063d89ffc  GB-0649.recal.bam
+2cc2ab385e9e18f663f74457bc24dfe3	GB-0361.recal.bam     |	10de96468b0e30738cb00b869480541f  GB-0651.recal.bam
+03affd9ab8c7d6a9f0f169c680586414	GB-0371.recal.bam     |	6ede648430904280f3cf97f8cdcfeb35  GB-0655.recal.bam
+e4a6641a0417a0d8504d9812eff2db8c	GB-0376.recal.bam     |	605fad959b9a88c8e23599be350dca60  GB_0657.recal.bam
+46cfc28d5b8376274e7f64db8075848e	GB-0377.recal.bam     |	1a786c543af296a719ff073937baaa3e  GB_0660.recal.bam
+70f340be93701de1d5e2524a316c2e16	GB-0382.recal.bam     |	b460e8faa3da1741f4f63dd1b6ad3fd3  GB_0662.recal.bam
+74f96552d0e6d947981de914b5c90fce	GB-0386.recal.bam     |	c863512b4d3710b9a14c0ab124e5fea9  GB_0683.recal.bam
+56343a0dd93bbcaced05ae6b88fcbde9	GB-0394.recal.bam     |	19a24a5047da3de0894015dd6fbd8680  GB_0720_Merge.recal.bam
+7134fb9282d3ece9bb9e7a09f054dc61	GB_0426.recal.bam     |	f1a604f4b077ae7618dd2af826ac0e05  GB_0739_Merge.recal.bam
+3e2d386e4ca68bbc827d74fda7cb8606	GB_0428.recal.bam     |	bdfb5df67d2a9dbd8882474eed198e9d  GB-0740.recal.bam
+bea55a021ef8b1548f44ea9540ac044e	GB_0429.recal.bam     |	8168653c5863ccea1de43bf2177bec8d  GB-0776.recal.bam
+658286ada2d50d8399f6b38c8359804a	GB-0430.recal.bam     |	c6951d9bc56e5d73f723a73641f7fa71  GB_0785_Merge.recal.bam
+13105ed0d1fdddb307e8c7345f5d1797	GB-0434.recal.bam     |	a7181f2807534e51d1044a5f33156764  GB_0790_Merge.recal.bam
+f3ab8887a45f9129769567030ada5b23	GB-0440.recal.bam     |	3ee358f5e89828160070fd5c3c41a6e4  GB_0805.recal.bam
+17451821c83603f21985ab64dd067247	GB-0457.recal.bam     |	9cf47563910e83fa6fc5572ba1925832  GB-0816.recal.bam
+b205553f6829e8b9d46602ceb7417548	GB_0461.recal.bam     |	9752bd2463ed788d5f95e571a9848a72  GB-0864.recal.bam
+bd6e562c262918e6b2b59cc6d811b76b	GB_0467.recal.bam     |	8d0bede1c875c5b72392d5a2f98bab76  GB_1027.recal.bam
+ffe24221ac2a27a71d6655b525a97081	GB-0489.recal.bam     |	73acedb6d056767c73baa9bdf07e2ca3  GB_1031.recal.bam
+dd56098f2b2ee70d66d0594ae6c5641c	GB-0517.recal.bam     |	1eed9d76d7170532995b7c36fd8d4edb  GB_1063.recal.bam
+f4040351bb87d5a476ab183f8659f83f	GB-0524.recal.bam     |	42823511b4538c8dc761aebc935f35a5  GB_1067.recal.bam
+f4e5e7c290da1f5ed9130fe87318e117	GB-0533.recal.bam     |	74eaf74db3c4591a40a2ed913de9e953  GB_1069.recal.bam
+2cab7679432b263ab5c5a7982a6ed806	GB-0536.recal.bam     |	a13c6607ad34ce94e8c7713c429f437e  GB_1084.recal.bam
+403d56e00cb5dc59d48c4a2caab46359	GB_0542.recal.bam     |	aeee5ba5f55a148019043572aa4bfb7a  GB_1086.recal.bam
+b5b2a3434098ccc3f27e87681dd40e6e	GB-0569.recal.bam     |	0a4774decfa3c325fae050a7dd5f843b  GB_1329.recal.bam
+fcc1daec9c914695b3492fde9155863a	GB-0571.recal.bam     |	d9895665c7636efa8050fa923a8d2344  GB_1336.recal.bam
+e9fa188a2402c4f481a6a29a315395c5	GB-0593.recal.bam     |	532703f8a98a33ff695e5c7ac1e0f306  GB_1383.recal.bam
+3f869b8f51d99952689d3de18ecce81b	GB-0594.recal.bam     |	1c1c5f7efed4702a55618ffefb8434b1  GB_1384.recal.bam
+45850e8988ea2650067906904fab2f07	GB_0600.recal.bam     |	c50f6c842aa93b84a34fd316292886fc  GB-1386.recal.bam
+44bb9408a3e36c2a9cf82e3d00d1a176	GB-0623.recal.bam     |	ce2021a22234a384accb2037c0df04c9  GB_1388.recal.bam
+1a179069ba99b8e6030a9d9ac6308392	GB_0631.recal.bam     |	41b8f7942b4f96bb31380560d027567b  GB-1438.recal.bam
+38ac2cbd36b28824df4b397f80c13441	GB-0636.recal.bam     |	559c34e80e7458d3ec338024918fd6d5  GB_1439.recal.bam
+a37167a9c8ad09ea685df1ecdb2d8ebf	GB_0647.recal.bam     |	34a5b096edbf7398fd422b5aec5fb12c  GB_1444.recal.bam
+dae5236bdba5c5714d50c06689830247	GB_0648.recal.bam     |	09dfe89a595fc4828f438004784911da  GB_1449.recal.bam
+cef29a5d8af0ea4d8b9f493063d89ffc	GB-0649.recal.bam     |	d9dc6c6c61e3ad593ac7fc1341f8712c  GB_1459.recal.bam
+10de96468b0e30738cb00b869480541f	GB-0651.recal.bam     |	6c92a9261f7e316b0b5694df70cf2db6  GB_1462.recal.bam
+6ede648430904280f3cf97f8cdcfeb35	GB-0655.recal.bam     |	41d6778a5c4a8878227258e3defd359f  GB_1464.recal.bam
+605fad959b9a88c8e23599be350dca60	GB_0657.recal.bam     |	9e3aceceb5de0df7b023c3f67e8ed404  GB_1465.recal.bam
+1a786c543af296a719ff073937baaa3e	GB_0660.recal.bam     |	6d5bdcfcbf75f1c85794e81a3e3dd7d7  GB-1468.recal.bam
+b460e8faa3da1741f4f63dd1b6ad3fd3	GB_0662.recal.bam     |	93989bacfa76bfecab4d0546c41c8224  GB_1480.recal.bam
+c863512b4d3710b9a14c0ab124e5fea9	GB_0683.recal.bam     |	88c87f9234ce67b49cb72f2537bc4904  GB_1482.recal.bam
+19a24a5047da3de0894015dd6fbd8680	GB_0720_Merge.recal.b |	cfb3cfe191571aebdc0a38e1926627be  GB_1483.recal.bam
+f1a604f4b077ae7618dd2af826ac0e05	GB_0739_Merge.recal.b |	9207eaabe3eb6e4f1faee8467294dacd  GB_1512.recal.bam
+bdfb5df67d2a9dbd8882474eed198e9d	GB-0740.recal.bam     |	c4fd42de2d3d4835c5d9f020b462597f  GB_1513.recal.bam
+8168653c5863ccea1de43bf2177bec8d	GB-0776.recal.bam     |	2b63b95c69848b3df2badb04bc87d9f2  GB-CL1-1.recal.bam
+c6951d9bc56e5d73f723a73641f7fa71	GB_0785_Merge.recal.b |	821a08becf5131373198376566c28ac4  GB-CL2-1.recal.bam
+a7181f2807534e51d1044a5f33156764	GB_0790_Merge.recal.b |	7140c42f92a4edd2a1b1703b2a351880  ISU1009.recal.bam
+3ee358f5e89828160070fd5c3c41a6e4	GB_0805.recal.bam     |	6d55ab548f85e3449618c26868a2c347  ISU1012.recal.bam
+9cf47563910e83fa6fc5572ba1925832	GB-0816.recal.bam     |	576d144a25c65029b7ecdde4c74bb5e6  ISU1021.recal.bam
+9752bd2463ed788d5f95e571a9848a72	GB-0864.recal.bam     |	f6a684eaa87cf363cbce287878e2091b  KLM1872.recal.bam
+8d0bede1c875c5b72392d5a2f98bab76	GB_1027.recal.bam     |	b274c4e956d68329927aab3003f0e491  Ligon1.recal.bam
+73acedb6d056767c73baa9bdf07e2ca3	GB_1031.recal.bam     |	cb827980d2da9771478248af88ad2e9c  LKSP.recal.bam
+1eed9d76d7170532995b7c36fd8d4edb	GB_1063.recal.bam     |	8c590c5fd814817306e3b1928ab4985d  M434-12.recal.bam
+42823511b4538c8dc761aebc935f35a5	GB_1067.recal.bam     |	209f0d7412a401f00309113d7ee62eb2  M435-7.recal.bam
+74eaf74db3c4591a40a2ed913de9e953	GB_1069.recal.bam     |	f71d606b921e3679f0a42f090c691b9a  M436_7.recal.bam
+a13c6607ad34ce94e8c7713c429f437e	GB_1084.recal.bam     |	0b37ac7da7747e492743e26b2b733ae1  M437_9.recal.bam
+aeee5ba5f55a148019043572aa4bfb7a	GB_1086.recal.bam     |	a540fc49d12b66e45f1e617d0eec26d4  M439_10.recal.bam
+0a4774decfa3c325fae050a7dd5f843b	GB_1329.recal.bam     |	8e979c6863ba06891a31e52b5b45db5f  M440-5.recal.bam
+d9895665c7636efa8050fa923a8d2344	GB_1336.recal.bam     |	43eb01b8ce67bec4fdd9e1f772c4bf03  M538-11.recal.bam
+532703f8a98a33ff695e5c7ac1e0f306	GB_1383.recal.bam     |	4cdf95a62d9de8d6b0f8ec6836747749  M539_15.recal.bam
+1c1c5f7efed4702a55618ffefb8434b1	GB_1384.recal.bam     |	3a4db1e8d8e66ea63c591de352e0bae5  M540_5.recal.bam
+c50f6c842aa93b84a34fd316292886fc	GB-1386.recal.bam     |	4beecaf9534d89c8d292c6a11728c2c4  M633_5.recal.bam
+ce2021a22234a384accb2037c0df04c9	GB_1388.recal.bam     |	7f8a19a1965ac1aa3e469b6d652a5cd1  M634_3.recal.bam
+41b8f7942b4f96bb31380560d027567b	GB-1438.recal.bam     |	6cc27e232fd757f44040aa89046f8816  M637_2.recal.bam
+559c34e80e7458d3ec338024918fd6d5	GB_1439.recal.bam     |	d58491c5199629d05ea5ff44bd30fac2  M733_7.recal.bam
+34a5b096edbf7398fd422b5aec5fb12c	GB_1444.recal.bam     |	503f28bd7b7a915b6937df97f92215bf  M737-10.recal.bam
+09dfe89a595fc4828f438004784911da	GB_1449.recal.bam     |	b545bbecfd75b14b2abf9a5bcd6b6dd6  M738_3.recal.bam
+d9dc6c6c61e3ad593ac7fc1341f8712c	GB_1459.recal.bam     |	f3607d2f3c2e7a6731b55d97ec26949d  MISU001.recal.bam
+6c92a9261f7e316b0b5694df70cf2db6	GB_1462.recal.bam     |	c55a7cba01ad996329ea2ee914902024  MISU002.recal.bam
+41d6778a5c4a8878227258e3defd359f	GB_1464.recal.bam     |	702d92b16a9cc955b89bd7b346fe1297  MISU003.recal.bam
+9e3aceceb5de0df7b023c3f67e8ed404	GB_1465.recal.bam     |	ec97a1e71b6a0d4c0a27da07c908f865  MISU004.recal.bam
+6d5bdcfcbf75f1c85794e81a3e3dd7d7	GB-1468.recal.bam     |	bcfce743ebf851551952518cae32abdb  NC12-769.recal.bam
+93989bacfa76bfecab4d0546c41c8224	GB_1480.recal.bam     |	5da16b37dbe978618734aeabbba85c03  NC12-770.recal.bam
+88c87f9234ce67b49cb72f2537bc4904	GB_1482.recal.bam     |	f37d2e6d813182c074b45f138f7278c4  NCM14-31.recal.bam
+cfb3cfe191571aebdc0a38e1926627be	GB_1483.recal.bam     |	728dc9511fc846f4dcb41bcfa715cdb5  OWS.recal.bam
+9207eaabe3eb6e4f1faee8467294dacd	GB_1512.recal.bam     |	3d08d0e9e2774a0760d4dadaf2440622  SA_0002.recal.bam
+c4fd42de2d3d4835c5d9f020b462597f	GB_1513.recal.bam     |	e2514b92403495a6f4907390d6438225  SA-0033.recal.bam
+fed9355a3fc7c81b4fdf47c3b1a2a264	GB236.recal.bam	      |	90fbee7d0f0222c920e343e8856792b2  SA-0053.recal.bam
+2d00386348ff8aaea6bab7515d357259	GB287-2.recal.bam     |	f7f5feaefcb581255966dfb4873253d1  SA-0084.recal.bam
+9f2f5f930ce0fd00ded5c9acce205f31	GB287.recal.bam	      |	5dfb960606ca372cf263eefaf28f6eca  SA-0159.recal.bam
+479d04a60516e38c649237f9c8cb5dc8	GB319.recal.bam	      |	468808aa8b30a4f5ed9e38b4ba9a3f19  SA-0165.recal.bam
+68a933738965c913787f07b8df9ac2cd	GB362.recal.bam	      |	dd687d769af7ed586ec3de458ddf2727  SA-0186.recal.bam
+7f146c47cd508d587caefbb01a9af45c	GB369.recal.bam	      |	5a4454fec42ee1774e53034147660d55  SA-0238.recal.bam
+2eb088e40c02e25b8f4c431ae9b9d4b6	GB385.recal.bam	      |	86576ac78a0af50a6e8a47d13e1246a4  SA-0298.recal.bam
+8c1d78007c1978db1f4d7f7ef2387dd9	GB398.recal.bam	      |	f23548ec17d3ff3f256985ed3741fc0c  SA-0300.recal.bam
+c0962d4fe6a806901a42c601f10f9ed9	GB411.recal.bam	      |	d6631e141d886885c4187695c10872ad  SA-0311.recal.bam
+5c4e66457586c528f2389ec4b1ef6eb9	GB414-2.recal.bam     |	9557e86787daf97b84ee16b9d8bb3f13  SA-0333.recal.bam
+079738fb81bed1429d5b973950e7d80f	GB414.recal.bam	      |	a3d4ad4a81b2ceff3ab2def9944807ba  SA_0369.recal.bam
+a71a29beb8f720c50a8c38af87e66b0a	GB427-2.recal.bam     |	e5ed7e3776f49d5aaa2b679d21ab1fef  SA-0582.recal.bam
+f28d6968b3438a73d9f045c92f342271	GB427.recal.bam	      |	82829f05bf9d3da56e06ec7e9798e9ef  SA_0668A.recal.bam
+2d260422d9101a6a4bb3a1d417921aca	GB618-2.recal.bam     |	36cddc81e0b39ef4735b5f1bb07d02e5  SA_0706.recal.bam
+a8305312f3e9db298062b63835030ba6	GB618.recal.bam	      |	ec584b463bef788165bc9403ad6e73e2  SA-0718.recal.bam
+689df40533a6bf05b46660e370d67ab2	GB67.recal.bam	      |	6f6480614c79bd925618cc636dafc7e7  SA-0815.recal.bam
+1ae20040fd5d6058713090a919e68541	GB74.recal.bam	      |	e6910efe80731c5ed64d684c5a150d05  SA-0825.recal.bam
+2b63b95c69848b3df2badb04bc87d9f2	GB-CL1-1.recal.bam    |	335805d266eaa885cee2e1ad56ccc988  SA-0857.recal.bam
+821a08becf5131373198376566c28ac4	GB-CL2-1.recal.bam    |	f787b334f0def0df882a8268626d8cc5  SA-0881.recal.bam
+ad14850fb4b814d358282d905078e091	GB.recal.bam	      |	d57bd9f06784ea392a2997242feaf9d0  SA-0883.recal.bam
+4a79f1647b8b8982ca9cb0dbdfc73570	GPS_005.recal.bam     |	d84abb443090a183821df4f1cd7aea76  SA-0892.recal.bam
+7140c42f92a4edd2a1b1703b2a351880	ISU1009.recal.bam     |	0b07d855513cfa6361a09f525f09d3e8  SA-0904.recal.bam
+6d55ab548f85e3449618c26868a2c347	ISU1012.recal.bam     |	3bdd2e221ab325ed7fd3eaa4c3ba5dfd  SA-0940.recal.bam
+576d144a25c65029b7ecdde4c74bb5e6	ISU1021.recal.bam     |	58bd8a657362e907e60d7a39aabf5f4e  SA-0965.recal.bam
+6296b4cc1ad812ec167341eb8e9d5382	K101.recal.bam	      |	e3ddcc2187a37b56f76a5213251c025a  SA-0982.recal.bam
+f6a684eaa87cf363cbce287878e2091b	KLM1872.recal.bam     |	e57f68a83baeae4e76107dda456b36e9  SA-1006_Merge.recal.bam
+11c02cb25e37eb5c8c20c8a55da18659	light_brown.recal.bam |	50d681c1afb070b9b6d88c7164aaf1df  SA-1019_Merge.recal.bam
+b274c4e956d68329927aab3003f0e491	Ligon1.recal.bam      |	7387a1e224a0ec0f4f614c410d1753ea  SA-1044_Merge.recal.bam
+cb827980d2da9771478248af88ad2e9c	LKSP.recal.bam	      |	1fd2fe748e64cf3d5cada9739a2f799e  SA-1055.recal.bam
+74d2e25bda7066defa5aea24bbe91d8a	M11.recal.bam	      |	682c9122107f72ef344afc9bda657394  SA-1111.recal.bam
+4efb63a5484b99840c251e72257bffeb	M12.recal.bam	      |	5f53281c6463c2d7fc57ab718ca1ad9e  SA-1138.recal.bam
+8164ee43268e89602a7699b7d3e7aa94	M1.recal.bam	      |	5619104e4e69345979b2e39d33d799b4  SA-1139.recal.bam
+0a81cd957a696088b687807956e5ae4d	M2.recal.bam	      |	741c3f1dba82b03788d763e961438f5a  SA-1156.recal.bam
+266adb64a9193bf90dbc48e6e6d72fa4	M3.recal.bam	      |	ca62782c4feb43289b1d1d1c45d07dc5  SA-1166.recal.bam
+8c590c5fd814817306e3b1928ab4985d	M434-12.recal.bam     |	6cff108b2fc36156a297073db301eb83  SA-1181.recal.bam
+209f0d7412a401f00309113d7ee62eb2	M435-7.recal.bam      |	45f102267778e33edae00d6a90e3c537  SA-1184.recal.bam
+f71d606b921e3679f0a42f090c691b9a	M436_7.recal.bam      |	a0d46356e081415205f957852be5218f  SA-1205.recal.bam
+0b37ac7da7747e492743e26b2b733ae1	M437_9.recal.bam      |	e167eacd211402e503d5182f9ed2a8d4  SA-1212.recal.bam
+a540fc49d12b66e45f1e617d0eec26d4	M439_10.recal.bam     |	cbe919bd72f909cba78542b75d0c61e0  SA-1230.recal.bam
+8e979c6863ba06891a31e52b5b45db5f	M440-5.recal.bam      |	b8a4cd7d9c25af65fe184a7a8f2be6d4  SA-1232.recal.bam
+0fc7da65bf2421954217e4ce10810b4b	M4.recal.bam	      |	3df1e87caf2594ca03900a80b77c6754  SA-1237.recal.bam
+43eb01b8ce67bec4fdd9e1f772c4bf03	M538-11.recal.bam     |	02fb34d10abfc95a20f1e00dcb41adc7  SA-1250.recal.bam
+4cdf95a62d9de8d6b0f8ec6836747749	M539_15.recal.bam     |	01613f6a837529903a8a73af43d2b6be  SA_1263.recal.bam
+3a4db1e8d8e66ea63c591de352e0bae5	M540_5.recal.bam      |	e2d0e027c8272fce0bde1df631f09acf  SA-1278.recal.bam
+b4daf11de835130d065d2a520432cd27	M5.recal.bam	      |	8e1da52e46f264b7e9e1da4e5cd4599c  SA-1291.recal.bam
+4beecaf9534d89c8d292c6a11728c2c4	M633_5.recal.bam      |	bdda64969848f3ffac4b4a5af54b67b6  SA-1330.recal.bam
+7f8a19a1965ac1aa3e469b6d652a5cd1	M634_3.recal.bam      |	a5e0196adcc82d6cff9e14a480c56163  SA-1349.recal.bam
+6cc27e232fd757f44040aa89046f8816	M637_2.recal.bam      |	d6eb2b682bd3ffcbea93b81510dc06ce  SA-1392.recal.bam
+b7e7f98d0142a303e5d2b19c98140ca5	M6.recal.bam	      |	34dcc4cf0411f955b3f81458b6cd16a4  SA-1403.recal.bam
+d58491c5199629d05ea5ff44bd30fac2	M733_7.recal.bam      |	c715c97fb97f8a906b99ea4af80fd8b6  SA-1406.recal.bam
+503f28bd7b7a915b6937df97f92215bf	M737-10.recal.bam     |	4f572fced1e68adeacea44e58b512145  SA-1412.recal.bam
+b545bbecfd75b14b2abf9a5bcd6b6dd6	M738_3.recal.bam      |	2d562412a168386f752909167f44b493  SA-1419.recal.bam
+85198116c2062a05d713832a9f750f68	M7.recal.bam	      |	1c735844dc613db4192e82defc038b91  SA-1420.recal.bam
+0b5c81d4d48b5692d6536481af1bf64a	M835.recal.bam	      |	40c9a6d02bc04cfb0f0397885befd013  SA-1424.recal.bam
+0e388b8fcf544f5c6ec9c04f821bdfed	M8.recal.bam	      |	50c4b41397afaaa70a8f8a78847346ae  SA-1427.recal.bam
+95ac9250eee373bdabc423b08a388ee3	M9.recal.bam	      |	593c0be28207880d32969ed9586914be  SA-1428.recal.bam
+a185accae632e152ed907fd58ccd734c	Maxxa.recal.bam	      |	e9f9fe79b2d77fad81d8877348aad433  SA-1455.recal.bam
+f3607d2f3c2e7a6731b55d97ec26949d	MISU001.recal.bam     |	0f303dc0b5f090500db92115d1cfac6e  SA-1456.recal.bam
+c55a7cba01ad996329ea2ee914902024	MISU002.recal.bam     |	128ff0ee650b9249a844eb4fe9ceae6b  SA-1465.recal.bam
+702d92b16a9cc955b89bd7b346fe1297	MISU003.recal.bam     |	a10c657cea3b600b8ad5b993698351e1  SA_1497.recal.bam
+ec97a1e71b6a0d4c0a27da07c908f865	MISU004.recal.bam     |	42e33115f6a96ec8db09321ab48fc0c0  SA-1533.recal.bam
+6c876367dec8ddd4be74224ceb263446	MS240.recal.bam	      |	c43310145e05db050458f83792f9726a  SA-1596.recal.bam
+1d6c885cff4a2b6dec7941c24621796b	nb-1.recal.bam	      |	b84f72d35c2cd06ba576bc3c4104acdb  SA-1604.recal.bam
+bcfce743ebf851551952518cae32abdb	NC12-769.recal.bam    |	42d1294af8efd3f45a69d3e7a2ea4e39  SA-1665.recal.bam
+5da16b37dbe978618734aeabbba85c03	NC12-770.recal.bam    |	81f3d8f9193b120320479ca50cb6d3c2  SA-1694.recal.bam
+f37d2e6d813182c074b45f138f7278c4	NCM14-31.recal.bam    |	d773bf01eb497b9193bd78ad714589dc  SA-1703.recal.bam
+9ab6fa58e907b5d3c50791362bf1df88	NE-7018.recal.bam     |	413692dc9d757d1ee7eb81897f9bcb98  SA_1710.recal.bam
+a876658dbde33082a888412b13df053a	olg2_10.recal.bam     |	1142a1a67649087b11556f9a45f62752  SA-1725.recal.bam
+0b258c7c6a3f8e49122f690440533562	olg2_11.recal.bam     |	8fbe0d09d59b1663f1545e5eaa1f06fe  SA-1759.recal.bam
+a6a0c403a4e3dc182a5bcb10514d6733	olg2_12.recal.bam     |	0d6656ff1b09e29c4d9e78c5f9889d0e  SA-1766.recal.bam
+8ac4275f8113630a6823f2b3891de5fe	olg2_13.recal.bam     |	7c09eccb6815a4064794010b7b0c4fda  SA-1845.recal.bam
+8f3a6956e0249d6764c1a4a32dc51af7	olg2_14.recal.bam     |	5012f8657282a88519f0ecde96c48cbc  SA-1913.recal.bam
+116576e6d357fa7a385d24bbd50064ef	olg2_15.recal.bam     |	b6bb17d47342fc3451817b056a7f68b8  SA-2057.recal.bam
+84b3067f11c6d049d0990054d8f0a570	olg2_17.recal.bam     |	b6d8057e9d634c856d7c9ff35c0d2596  SA-2149.recal.bam
+0eaacbe3c6d1ea5d67e8d2351f09f370	olg2_18.recal.bam     |	833ead2b43982ca5e0c28148974e49af  SA_2192.recal.bam
+82a4e7f6ba76e2c4a9eb6ce8498948ae	olg2_2.recal.bam      |	034d263e6122230283fea8cd6c2f2a1b  SA-2260.recal.bam
+cc1aedde2d5545e1b7cba29cd9849753	olg2_3.recal.bam      |	7f9433511f70e09a4d751ae6c094c176  SA-2269.recal.bam
+5954fae0c9a678c1ec01cdbf8db229f7	olg2_4.recal.bam      |	bd6cb622f83ea2057dd19506a935331e  SA-2330.recal.bam
+32f78500cc31e22ea9be155395ac541c	olg2_5.recal.bam      |	ec7f023550712aa2872ce0db585c3cc1  SA-2356.recal.bam
+5c02496e7f92b82613e8a0dbccec43b9	olg2_6.recal.bam      |	f1ee3b1c22020edd9f6efcf66faa2c78  SA-2374.recal.bam
+ea99fc42f1644b5303db04b933d5ca7f	olg2_8.recal.bam      |	6eb40eb3f9a57059e05cc15852b6d9e0  SA-2375.recal.bam
+728dc9511fc846f4dcb41bcfa715cdb5	OWS.recal.bam	      |	7fd290fb83a3c01242b8241070fcdff2  SA-2401.recal.bam
+b6180e8590ad3690fc0d34bfee8e1476	PD1.recal.bam	      |	1c9a8cfd179d73c28298e2217fdac8cc  SA-2558.recal.bam
+77750784162b3f580364572e0a6d1d55	phy76.recal.bam	      |	1dee45ca5d410dcb92f080d904785e3a  SA-2580.recal.bam
+10f2c0b2642fa3ebd2518a2676f612e5	Phy76.recal.bam	      |	ee7110bfaa9c9b2cc10f741460e5626e  SA-2589_Merge.recal.bam
+aa17d8261e8bf44730105204665fdbc5	PI341095.recal.bam    |	aa39d81fa7396041e330a16373817e92  SA-2597.recal.bam
+ead67ccd9ddd6c909112e4ed7612421b	PS_7.recal.bam	      |	5640b252c36b89749471cc8f65b13072  SA-2606.recal.bam
+3d08d0e9e2774a0760d4dadaf2440622	SA_0002.recal.bam     |	a1e16af8c83f06d5207b1ebf6e21da92  SA-2895_Merge.recal.bam
+e2514b92403495a6f4907390d6438225	SA-0033.recal.bam     |	77a528f5ad4b544de4662cd0078dcf88  SA-2910.recal.bam
+90fbee7d0f0222c920e343e8856792b2	SA-0053.recal.bam     |	e0e3bbf2014cff476711c3d431f080b7  SA_3137.recal.bam
+f7f5feaefcb581255966dfb4873253d1	SA-0084.recal.bam     |	a4584006dbb2d4e1a03ee5533f1b5d23  SA-3193.recal.bam
+5dfb960606ca372cf263eefaf28f6eca	SA-0159.recal.bam     |	4d9e6c5972bb58a481355b6205a6e340  SA-3251.recal.bam
+468808aa8b30a4f5ed9e38b4ba9a3f19	SA-0165.recal.bam     |	b5e58068fddb1ff16094628f2fe84d17  SA-3256.recal.bam
+dd687d769af7ed586ec3de458ddf2727	SA-0186.recal.bam     |	9c4ae5288234979689baec5b6b63c611  SA_3284.recal.bam
+5a4454fec42ee1774e53034147660d55	SA-0238.recal.bam     |	958db4b9054297abe3051cce3b169263  SA-3308.recal.bam
+86576ac78a0af50a6e8a47d13e1246a4	SA-0298.recal.bam     |	0b0fd02aedf0d7add0ba0e0c5626e934  SA-3332.recal.bam
+f23548ec17d3ff3f256985ed3741fc0c	SA-0300.recal.bam     |	5756c3bf99388048d38da5d05c8ee166  SA-3335.recal.bam
+d6631e141d886885c4187695c10872ad	SA-0311.recal.bam     |	62af33135a897ca38c21961094f9884c  SA-3338.recal.bam
+9557e86787daf97b84ee16b9d8bb3f13	SA-0333.recal.bam     |	ff144fafb078a9bc71a1405f21abcefb  SA-3340.recal.bam
+a3d4ad4a81b2ceff3ab2def9944807ba	SA_0369.recal.bam     |	8a1abb6faa274e07470af016752e7e23  SA-3348.recal.bam
+e5ed7e3776f49d5aaa2b679d21ab1fef	SA-0582.recal.bam     |	b19c1164f28a7cb0f09ae663fa244ec3  SA_3360.recal.bam
+82829f05bf9d3da56e06ec7e9798e9ef	SA_0668A.recal.bam    |	84e352dc6d66df583f64d9d4b18d3bf3  SA-3390.recal.bam
+36cddc81e0b39ef4735b5f1bb07d02e5	SA_0706.recal.bam     |	943b3845a163bfabbbdf72a7829b2e72  SA-3403.recal.bam
+ec584b463bef788165bc9403ad6e73e2	SA-0718.recal.bam     |	3eba78c82dff3983c842501af1eff402  SA-3413.recal.bam
+6f6480614c79bd925618cc636dafc7e7	SA-0815.recal.bam     |	90f88807357689481348282f14de00aa  SA-3444.recal.bam
+e6910efe80731c5ed64d684c5a150d05	SA-0825.recal.bam     |	3bf890314ea3b51d8f1e99a9896554fa  SA-3452.recal.bam
+335805d266eaa885cee2e1ad56ccc988	SA-0857.recal.bam     |	c14f081df9ad2859ed0c60912c246cf7  SA-3477.recal.bam
+f787b334f0def0df882a8268626d8cc5	SA-0881.recal.bam     |	d3502abcb2ddcdfb34c06b3e886dac5b  SA-3489.recal.bam
+d57bd9f06784ea392a2997242feaf9d0	SA-0883.recal.bam     |	4c4ecbd09c06fe9e27df41cdf3313031  SA-3493.recal.bam
+d84abb443090a183821df4f1cd7aea76	SA-0892.recal.bam     |	098de933ded2ed1e28823bc43ed11d1e  SA-3748.recal.bam
+0b07d855513cfa6361a09f525f09d3e8	SA-0904.recal.bam     |	cce52d8788674c3090a2a44a74ed1d4d  SA-3749.recal.bam
+3bdd2e221ab325ed7fd3eaa4c3ba5dfd	SA-0940.recal.bam     |	40fd7e103ae3207ed69776f401612e24  SA-3777.recal.bam
+58bd8a657362e907e60d7a39aabf5f4e	SA-0965.recal.bam     |	396031fef492a9d649c127e5a9bcd5a1  SA-3778.recal.bam
+e3ddcc2187a37b56f76a5213251c025a	SA-0982.recal.bam     |	d88584c98b26199a8893c6e557f65e52  SA-3781.recal.bam
+e57f68a83baeae4e76107dda456b36e9	SA-1006_Merge.recal.b |	3ad19036725b01fe1664b0477f39d2dc  TX_0006.recal.bam
+50d681c1afb070b9b6d88c7164aaf1df	SA-1019_Merge.recal.b |	5afdad9325fe0c109627da7c181a2c54  TX_0009.recal.bam
+7387a1e224a0ec0f4f614c410d1753ea	SA-1044_Merge.recal.b |	011971c561fc4087db6916f2e1600c9a  TX_0012.recal.bam
+1fd2fe748e64cf3d5cada9739a2f799e	SA-1055.recal.bam     |	b060a330d9fedf4f3026c5563480901a  TX_0014.recal.bam
+682c9122107f72ef344afc9bda657394	SA-1111.recal.bam     |	a3d582ff7cc39ff0f2112c248e48582e  TX-0044.recal.bam
+5f53281c6463c2d7fc57ab718ca1ad9e	SA-1138.recal.bam     |	9917c5a477f7044904abc39f89fb0658  TX-0069.recal.bam
+5619104e4e69345979b2e39d33d799b4	SA-1139.recal.bam     |	0f2c80c1694f46515d824fbcef9ef7c4  TX-0087.recal.bam
+741c3f1dba82b03788d763e961438f5a	SA-1156.recal.bam     |	7deded866e2c12a9ce12b7e11284858f  TX_0089.recal.bam
+ca62782c4feb43289b1d1d1c45d07dc5	SA-1166.recal.bam     |	7b6a5bd60f5a4dd0ede892824b9925ff  TX_0109.recal.bam
+6cff108b2fc36156a297073db301eb83	SA-1181.recal.bam     |	ef973d5085b0d4dac64adef88e1680a3  TX_0112.recal.bam
+45f102267778e33edae00d6a90e3c537	SA-1184.recal.bam     |	aa096a8ccbb776e8c779d0859ea905d5  TX_0130.recal.bam
+a0d46356e081415205f957852be5218f	SA-1205.recal.bam     |	07886a486c97a8785e72bfca2e54c413  TX_0147.recal.bam
+e167eacd211402e503d5182f9ed2a8d4	SA-1212.recal.bam     |	faf0cb589dfdbb42c78f59db7d404c29  TX-0180.recal.bam
+cbe919bd72f909cba78542b75d0c61e0	SA-1230.recal.bam     |	56c8d3fe57ea04cf3dd1269ad4f05f61  TX-0194.recal.bam
+b8a4cd7d9c25af65fe184a7a8f2be6d4	SA-1232.recal.bam     |	b97adeea90eca40b06ad9f780a4ebffd  TX_0200.recal.bam
+3df1e87caf2594ca03900a80b77c6754	SA-1237.recal.bam     |	e5546a356114be795135c3d3d72240c1  TX-0213.recal.bam
+02fb34d10abfc95a20f1e00dcb41adc7	SA-1250.recal.bam     |	8a18776bcc3a68dbf2cbd18fd50dd7a8  TX_0215.recal.bam
+01613f6a837529903a8a73af43d2b6be	SA_1263.recal.bam     |	e50cc3afff6ca1dd292cbee7eabf540c  TX_0217.recal.bam
+e2d0e027c8272fce0bde1df631f09acf	SA-1278.recal.bam     |	b3c1e63769dd8daf07337a359005a487  TX_0240.recal.bam
+8e1da52e46f264b7e9e1da4e5cd4599c	SA-1291.recal.bam     |	c53400c81324734f6b43aaf93479b532  TX_0248.recal.bam
+bdda64969848f3ffac4b4a5af54b67b6	SA-1330.recal.bam     |	b25e25dd7b0876cfe7727358c4143acb  TX_0249.recal.bam
+a5e0196adcc82d6cff9e14a480c56163	SA-1349.recal.bam     |	8500433be04dbed615e91b824217eaf7  TX-0279.recal.bam
+d6eb2b682bd3ffcbea93b81510dc06ce	SA-1392.recal.bam     |	734a2c6caf1a3e72bfb3347192216786  TX_0286.recal.bam
+34dcc4cf0411f955b3f81458b6cd16a4	SA-1403.recal.bam     |	c807d4e12f2e879a90dc3ed6e23228c7  TX-0303.recal.bam
+c715c97fb97f8a906b99ea4af80fd8b6	SA-1406.recal.bam     |	7b9524a75e61fd818d835da19fb90b58  TX-0315.recal.bam
+4f572fced1e68adeacea44e58b512145	SA-1412.recal.bam     |	13a0fea5481e1cfd354d0aa3134ec132  TX_0390.recal.bam
+2d562412a168386f752909167f44b493	SA-1419.recal.bam     |	d492d0c4f8409fb122b9a00f57656428  TX_0461.recal.bam
+1c735844dc613db4192e82defc038b91	SA-1420.recal.bam     |	bf825f2c6110f2b1db63576bcdf7d31c  TX-0480.recal.bam
+40c9a6d02bc04cfb0f0397885befd013	SA-1424.recal.bam     |	3751bd3394a83361dd7d0fdce62ba1b3  TX-0481.recal.bam
+50c4b41397afaaa70a8f8a78847346ae	SA-1427.recal.bam     |	2fbe45231a819038480e8f96e072fc9a  TX_0487.recal.bam
+593c0be28207880d32969ed9586914be	SA-1428.recal.bam     |	90c1adb45004fdb6e424a378baaa4eef  TX_0634.recal.bam
+e9f9fe79b2d77fad81d8877348aad433	SA-1455.recal.bam     |	05f71b713c70a86d11410a8d2c48d188  TX-0662.recal.bam
+0f303dc0b5f090500db92115d1cfac6e	SA-1456.recal.bam     |	c319faaf5746236690ddafbe12af2ed4  TX-0663.recal.bam
+128ff0ee650b9249a844eb4fe9ceae6b	SA-1465.recal.bam     |	d7f5718e5f8c02184447763d9e0a92cc  TX_0664.recal.bam
+a10c657cea3b600b8ad5b993698351e1	SA_1497.recal.bam     |	8d61a1237ff078daf47a11b946e1ea8a  TX_0665.recal.bam
+42e33115f6a96ec8db09321ab48fc0c0	SA-1533.recal.bam     |	87015cf0e62cd4eaee011c5d85dc82c1  TX-0668.recal.bam
+c43310145e05db050458f83792f9726a	SA-1596.recal.bam     |	8af90e638176bcba75e577cc29923923  TX-0670.recal.bam
+b84f72d35c2cd06ba576bc3c4104acdb	SA-1604.recal.bam     |	11f941b6b15e674878ae1af84c53b4b3  TX-0672.recal.bam
+42d1294af8efd3f45a69d3e7a2ea4e39	SA-1665.recal.bam     |	6f4b0a04b2cd1c2c293b790e4a7635ff  TX_0674.recal.bam
+81f3d8f9193b120320479ca50cb6d3c2	SA-1694.recal.bam     |	e937bb20fac36afd339379b80029d151  TX_0686.recal.bam
+d773bf01eb497b9193bd78ad714589dc	SA-1703.recal.bam     |	ebdab282823ab5dcf398bb2d27510b38  TX_0691.recal.bam
+413692dc9d757d1ee7eb81897f9bcb98	SA_1710.recal.bam     |	5f14326be9043590b45e1d9f3c2154c0  TX_0698.recal.bam
+1142a1a67649087b11556f9a45f62752	SA-1725.recal.bam     |	5cc7efbb07dccf1a05fe5cf0026722be  TX_0704.recal.bam
+8fbe0d09d59b1663f1545e5eaa1f06fe	SA-1759.recal.bam     |	464c6d7e47b9d483bb661266854c7513  TX_0710.recal.bam
+0d6656ff1b09e29c4d9e78c5f9889d0e	SA-1766.recal.bam     |	f1eb60cf4de12d4d03b939d21925e930  TX_0712.recal.bam
+7c09eccb6815a4064794010b7b0c4fda	SA-1845.recal.bam     |	50da0bfc43d6e5a7d5a3c30d66ccfb17  TX_0713.recal.bam
+5012f8657282a88519f0ecde96c48cbc	SA-1913.recal.bam     |	fce78196a1551bda76674754e3a7f4cc  TX_0746.recal.bam
+b6bb17d47342fc3451817b056a7f68b8	SA-2057.recal.bam     |	4bcc8e4cba29af43e26a8b799c138c1f  TX_0751.recal.bam
+b6d8057e9d634c856d7c9ff35c0d2596	SA-2149.recal.bam     |	ed5484a2f502512a8c2111fb8e46a3b1  TX_0752.recal.bam
+833ead2b43982ca5e0c28148974e49af	SA_2192.recal.bam     |	c6c5cbb532399baecba79d8abf951419  TX_0756.recal.bam
+034d263e6122230283fea8cd6c2f2a1b	SA-2260.recal.bam     |	66cba7f08955ad2ab34e790615e1220b  TX-0786.recal.bam
+7f9433511f70e09a4d751ae6c094c176	SA-2269.recal.bam     |	ab2d4ca1399da0b27cc409b0fa56d3fd  TX_0834.recal.bam
+bd6cb622f83ea2057dd19506a935331e	SA-2330.recal.bam     |	31ce11bb0382c522e19549674ebc6741  TX-0853.recal.bam
+ec7f023550712aa2872ce0db585c3cc1	SA-2356.recal.bam     |	b56848bd6081252db1ae0f2a7c34aceb  TX_0879.recal.bam
+f1ee3b1c22020edd9f6efcf66faa2c78	SA-2374.recal.bam     |	e8a5aae3751fc721908346138606115e  TX_0902.recal.bam
+6eb40eb3f9a57059e05cc15852b6d9e0	SA-2375.recal.bam     |	4b5cb48a76b2284709e12476dc68043a  TX_0937.recal.bam
+7fd290fb83a3c01242b8241070fcdff2	SA-2401.recal.bam     |	c2fdf30e712a2619381d28b26753018e  TX_0939.recal.bam
+1c9a8cfd179d73c28298e2217fdac8cc	SA-2558.recal.bam     |	2c5b47cd721012cfd6ddf5546422151a  TX-0953.recal.bam
+1dee45ca5d410dcb92f080d904785e3a	SA-2580.recal.bam     |	725ea19ae919c7fc90626c6070980d39  TX_0956.recal.bam
+ee7110bfaa9c9b2cc10f741460e5626e	SA-2589_Merge.recal.b |	aef8f9b7706089687a740944c55918d6  TX_0959.recal.bam
+aa39d81fa7396041e330a16373817e92	SA-2597.recal.bam     |	8d8637356d85eb79a81a0e101b439116  TX-0967.recal.bam
+5640b252c36b89749471cc8f65b13072	SA-2606.recal.bam     |	b39fb2f041c8b70f31a86d1f91352a45  TX-0969.recal.bam
+a1e16af8c83f06d5207b1ebf6e21da92	SA-2895_Merge.recal.b |	6ac0478d5fe5b64891f0642edea8adb9  TX_1009.recal.bam
+77a528f5ad4b544de4662cd0078dcf88	SA-2910.recal.bam     |	5358d75da07599ac338f1877bdaec9c5  TX-1037.recal.bam
+e0e3bbf2014cff476711c3d431f080b7	SA_3137.recal.bam     |	c45da510af2a78619d9e021a2a751337  TX-1046.recal.bam
+a4584006dbb2d4e1a03ee5533f1b5d23	SA-3193.recal.bam     |	33b339eb3c3276c03f482099f048d07a  TX-1055.recal.bam
+4d9e6c5972bb58a481355b6205a6e340	SA-3251.recal.bam     |	63728626d16b0d72f32aa6b50f79089b  TX-1066.recal.bam
+b5e58068fddb1ff16094628f2fe84d17	SA-3256.recal.bam     |	dba9e2ad0fe2765774a255a8fc88c3af  TX_1075.recal.bam
+9c4ae5288234979689baec5b6b63c611	SA_3284.recal.bam     |	0e9d742eab36b5c9fda810b02827d466  TX-1089.recal.bam
+958db4b9054297abe3051cce3b169263	SA-3308.recal.bam     |	4fec09b45c594d33e6028301eeb7cc8e  TX-1102.recal.bam
+0b0fd02aedf0d7add0ba0e0c5626e934	SA-3332.recal.bam     |	12de0ae0f735c34a2eecf72375b76a16  TX-1105.recal.bam
+5756c3bf99388048d38da5d05c8ee166	SA-3335.recal.bam     |	38146895e71fea649721a3ad4da9640b  TX-1106.recal.bam
+62af33135a897ca38c21961094f9884c	SA-3338.recal.bam     |	572213c8823a22a79bf1a3330a6ef244  TX-1107.recal.bam
+ff144fafb078a9bc71a1405f21abcefb	SA-3340.recal.bam     |	acdf352360cc972ca4dfb21f19e26b64  TX_1108.recal.bam
+8a1abb6faa274e07470af016752e7e23	SA-3348.recal.bam     |	94d01d4f3820e3946b6af9e8fe8a33ff  TX-1110.recal.bam
+b19c1164f28a7cb0f09ae663fa244ec3	SA_3360.recal.bam     |	31748b12bdbc2df5a89cc4f64a569cf8  TX_1111.recal.bam
+84e352dc6d66df583f64d9d4b18d3bf3	SA-3390.recal.bam     |	1b977c20794972d89ab0050ffb617609  TX_1113.recal.bam
+943b3845a163bfabbbdf72a7829b2e72	SA-3403.recal.bam     |	c9657cb481369176aa6bb396c145ac95  TX-1115.recal.bam
+3eba78c82dff3983c842501af1eff402	SA-3413.recal.bam     |	03d77e264cc5624c5bfbe66a5167a916  TX_1120.recal.bam
+90f88807357689481348282f14de00aa	SA-3444.recal.bam     |	bf427bced6584942324779c166bf7e5f  TX-1168.recal.bam
+3bf890314ea3b51d8f1e99a9896554fa	SA-3452.recal.bam     |	45ea24501303fbd15e0b8200a6c43a2e  TX-1182.recal.bam
+c14f081df9ad2859ed0c60912c246cf7	SA-3477.recal.bam     |	ec74e14922c1e78e63df56193bf123c8  TX_1183.recal.bam
+d3502abcb2ddcdfb34c06b3e886dac5b	SA-3489.recal.bam     |	a8969fafc069b4eae2122259a72de184  TX-1226.recal.bam
+4c4ecbd09c06fe9e27df41cdf3313031	SA-3493.recal.bam     |	4c7e0e07912adb3108055d45864581eb  TX-1228.recal.bam
+098de933ded2ed1e28823bc43ed11d1e	SA-3748.recal.bam     |	4ddbb9ca3857bd9bba4af2f725a44026  TX-1229.recal.bam
+cce52d8788674c3090a2a44a74ed1d4d	SA-3749.recal.bam     |	ea3cada2a5c5aba3146fa63947cc9a75  TX-1236.recal.bam
+40fd7e103ae3207ed69776f401612e24	SA-3777.recal.bam     |	831d3cbbd7be0372c205cf19bfad7a41  TX-1244.recal.bam
+396031fef492a9d649c127e5a9bcd5a1	SA-3778.recal.bam     |	2b0de78f225de0a866d877b3147d93d0  TX-1245.recal.bam
+d88584c98b26199a8893c6e557f65e52	SA-3781.recal.bam     |	4f92213b57e96bcf4612858bcc4128ae  TX_1249.recal.bam
+9b422f5e77aaa18c1c2a711c2ac0fcd0	Sani.recal.bam	      |	06f08f36958366e52c133db379133061  TX-1257.recal.bam
+70d8d8d0320b2f65f312c8151a4e8d3f	Sealand-542.recal.bam |	eb2cc67dde3b882cce62ae56a147f4ba  TX-1262.recal.bam
+02fc71b2d5a359c1294827dc79646d64	SG747.recal.bam	      |	7b23974f1dec40e8061a447fbf5536fa  TX-1263.recal.bam
+deb614932a536e4f33541641904a4745	ST474.recal.bam	      |	e03102f1d428de40b23b03bcfce8556b  TX-1273.recal.bam
+c8cee37f7dc66ba5d523787b039f6e4b	Tamcot_Sphinx.recal.b |	39e6c3a18e1828079183f1ca91aa08af  TX_1286.recal.bam
+5ffdc6e6b4c6e1cd6eb1d693445333db	TM1.recal.bam	      |	29d2abf1d9076c62ee0733ef29646ff0  TX-1288.recal.bam
+3ad19036725b01fe1664b0477f39d2dc	TX_0006.recal.bam     |	13ac78b3e792ceee1e0d153eec4f5ac5  TX-1292.recal.bam
+5afdad9325fe0c109627da7c181a2c54	TX_0009.recal.bam     |	9eef7c2a0cf417c2e57cf0e6ab7918d2  TX-1311.recal.bam
+011971c561fc4087db6916f2e1600c9a	TX_0012.recal.bam     |	586815b872dcf5f3af3eff2e9368e2d6  TX-1317.recal.bam
+b060a330d9fedf4f3026c5563480901a	TX_0014.recal.bam     |	299f742f0bb773c63d60176a11da1870  TX_1349.recal.bam
+a3d582ff7cc39ff0f2112c248e48582e	TX-0044.recal.bam     |	b42adad6d3fa26f318dca7e767952c5d  TX_1367.recal.bam
+9917c5a477f7044904abc39f89fb0658	TX-0069.recal.bam     |	015a7a647df7fc1a3ae601034bc3149e  TX-1373.recal.bam
+0f2c80c1694f46515d824fbcef9ef7c4	TX-0087.recal.bam     |	9965051f95495dd939de5991ea829758  TX-1416.recal.bam
+7deded866e2c12a9ce12b7e11284858f	TX_0089.recal.bam     |	3d8cdb05876e61d2b78b1638c8595c58  TX-1420.recal.bam
+7b6a5bd60f5a4dd0ede892824b9925ff	TX_0109.recal.bam     |	cb29fbf9b69813ccf9c74f4c475d63d9  TX-1422.recal.bam
+ef973d5085b0d4dac64adef88e1680a3	TX_0112.recal.bam     |	cb131e9d0ecd4e1f1cf0c2d255453bbe  TX-1439.recal.bam
+aa096a8ccbb776e8c779d0859ea905d5	TX_0130.recal.bam     |	4b8809767132132b5990beee1ec42c79  TX-1443.recal.bam
+07886a486c97a8785e72bfca2e54c413	TX_0147.recal.bam     |	22f9c54fe399f51e111120afc59571ee  TX_1453.recal.bam
+faf0cb589dfdbb42c78f59db7d404c29	TX-0180.recal.bam     |	03da78f6c81a61d6f8217e339439a3d2  TX-1459.recal.bam
+56c8d3fe57ea04cf3dd1269ad4f05f61	TX-0194.recal.bam     |	2a200956aa0ebf146743f196ad9945c5  TX-1477.recal.bam
+b97adeea90eca40b06ad9f780a4ebffd	TX_0200.recal.bam     |	9cde9f2fb365e1e772bd2412fea34255  TX-1487.recal.bam
+e5546a356114be795135c3d3d72240c1	TX-0213.recal.bam     |	729817fa76b297394cd084d4b30a385f  TX-1496.recal.bam
+8a18776bcc3a68dbf2cbd18fd50dd7a8	TX_0215.recal.bam     |	52832019429cf6ca7e323b51561bb063  TX-1497.recal.bam
+e50cc3afff6ca1dd292cbee7eabf540c	TX_0217.recal.bam     |	ad9eb8aef3ba728e9bbaf101606ee0ac  TX-1503.recal.bam
+b3c1e63769dd8daf07337a359005a487	TX_0240.recal.bam     |	5db9977b263458a80c916fc106a10200  TX-1509.recal.bam
+c53400c81324734f6b43aaf93479b532	TX_0248.recal.bam     |	ee46e729c2058a796e845350302ea3d0  TX-1514.recal.bam
+b25e25dd7b0876cfe7727358c4143acb	TX_0249.recal.bam     |	ebf421b402a828b63cb39a54ed4f8983  TX_1515.recal.bam
+8500433be04dbed615e91b824217eaf7	TX-0279.recal.bam     |	937bf3e9565677245d11538a5907d21c  TX-1520.recal.bam
+734a2c6caf1a3e72bfb3347192216786	TX_0286.recal.bam     |	c4158b9e4aef31e11601c24be239584d  TX-1551.recal.bam
+c807d4e12f2e879a90dc3ed6e23228c7	TX-0303.recal.bam     |	7c3b8b7a21428a39fffe8e51ecf8bd44  TX-1572.recal.bam
+7b9524a75e61fd818d835da19fb90b58	TX-0315.recal.bam     |	ce2b5f6e03d8d31c85b142a6867b0d27  TX-1578.recal.bam
+13a0fea5481e1cfd354d0aa3134ec132	TX_0390.recal.bam     |	1218e145a95c5c96c17d73cac0d15a76  TX_1579.recal.bam
+d492d0c4f8409fb122b9a00f57656428	TX_0461.recal.bam     |	41091b3f4cef311209f19d695e3e22bd  TX-1582.recal.bam
+bf825f2c6110f2b1db63576bcdf7d31c	TX-0480.recal.bam     |	a485bc9af399f18970e72bc5abe2fa7f  TX-1586.recal.bam
+3751bd3394a83361dd7d0fdce62ba1b3	TX-0481.recal.bam     |	c428434e10cd3a628de82816901b2636  TX-1592.recal.bam
+2fbe45231a819038480e8f96e072fc9a	TX_0487.recal.bam     |	996e4efa6dc10712f390aa036c3a9258  TX_1594.recal.bam
+90c1adb45004fdb6e424a378baaa4eef	TX_0634.recal.bam     |	de6f2ec6fcd645adef87aec688945954  TX-1596.recal.bam
+05f71b713c70a86d11410a8d2c48d188	TX-0662.recal.bam     |	322ceee22e12b167ae6108a2bed3d897  TX-1629.recal.bam
+c319faaf5746236690ddafbe12af2ed4	TX-0663.recal.bam     |	2bf5b116670d1ada1f9eb35650154e1b  TX-1635.recal.bam
+d7f5718e5f8c02184447763d9e0a92cc	TX_0664.recal.bam     |	9eef6703a11b759a91b42984d0bf9b65  TX-1661.recal.bam
+8d61a1237ff078daf47a11b946e1ea8a	TX_0665.recal.bam     |	f6c5b7a587402e41a261902b4c92432d  TX-1666.recal.bam
+87015cf0e62cd4eaee011c5d85dc82c1	TX-0668.recal.bam     |	3f79df8c1f9be32acaa369d801c7622a  TX-1672.recal.bam
+8af90e638176bcba75e577cc29923923	TX-0670.recal.bam     |	7668b0634cdeb19f84bd53791307f67c  TX-1674.recal.bam
+11f941b6b15e674878ae1af84c53b4b3	TX-0672.recal.bam     |	ba72907633eabdc232f1b7eb7b081a78  TX_1678.recal.bam
+6f4b0a04b2cd1c2c293b790e4a7635ff	TX_0674.recal.bam     |	853834f6c28bffee8ca947dc6c1566d7  TX_1688.recal.bam
+e937bb20fac36afd339379b80029d151	TX_0686.recal.bam     |	137f84a5d42a4da74d27749ff389a0ee  TX-1689.recal.bam
+ebdab282823ab5dcf398bb2d27510b38	TX_0691.recal.bam     |	6a03af116f53486ae3812f1330b5844e  TX_1690.recal.bam
+5f14326be9043590b45e1d9f3c2154c0	TX_0698.recal.bam     |	7be9046a772ab9498070934f370fc568  TX_1694.recal.bam
+5cc7efbb07dccf1a05fe5cf0026722be	TX_0704.recal.bam     |	f68c88d1dabddf79d9da9bdee85ee9fa  TX_1698.recal.bam
+464c6d7e47b9d483bb661266854c7513	TX_0710.recal.bam     |	be45808a3f7c6ad38cd252c88618529c  TX-1699.recal.bam
+f1eb60cf4de12d4d03b939d21925e930	TX_0712.recal.bam     |	93729ad09bbc51f9900e1a5cdb3a4737  TX-1702.recal.bam
+50da0bfc43d6e5a7d5a3c30d66ccfb17	TX_0713.recal.bam     |	f16982e04495d46cc2f09448e40efebb  TX-1705.recal.bam
+fce78196a1551bda76674754e3a7f4cc	TX_0746.recal.bam     |	112034d2cfb93a0ee5787e8dc46fa483  TX-1712.recal.bam
+4bcc8e4cba29af43e26a8b799c138c1f	TX_0751.recal.bam     |	4ed645b424ee8f3f1a1987eea0982a32  TX-1721.recal.bam
+ed5484a2f502512a8c2111fb8e46a3b1	TX_0752.recal.bam     |	24c2be72c7ec60328c6405de7d7671b6  TX-1748.recal.bam
+c6c5cbb532399baecba79d8abf951419	TX_0756.recal.bam     |	132db24a9c4ca2eef7d4babc0f8add2a  TX_1792.recal.bam
+66cba7f08955ad2ab34e790615e1220b	TX-0786.recal.bam     |	6fde04006bbeb57e5eb333f1bf3a1c2f  TX-1833.recal.bam
+ab2d4ca1399da0b27cc409b0fa56d3fd	TX_0834.recal.bam     |	6cae43c0bcddcf9903e493196e9d3481  TX_1855.recal.bam
+31ce11bb0382c522e19549674ebc6741	TX-0853.recal.bam     |	f41c1cebd6c4bf0a23b7dcd49986e605  TX_1859.recal.bam
+b56848bd6081252db1ae0f2a7c34aceb	TX_0879.recal.bam     |	5297700208ec76c36505905b61649a9c  TX_1874.recal.bam
+e8a5aae3751fc721908346138606115e	TX_0902.recal.bam     |	9d7bbc7dc3b765edbaa09e5831f3bb38  TX_1894.recal.bam
+4b5cb48a76b2284709e12476dc68043a	TX_0937.recal.bam     |	27efc038856a728358705cb6bb70edfc  TX_1895.recal.bam
+c2fdf30e712a2619381d28b26753018e	TX_0939.recal.bam     |	ab72d382489b6dd390d7c558fef502eb  TX-1905.recal.bam
+2c5b47cd721012cfd6ddf5546422151a	TX-0953.recal.bam     |	a0645184f0ff016ac7cdbfad1bce33d0  TX-1920.recal.bam
+725ea19ae919c7fc90626c6070980d39	TX_0956.recal.bam     |	47b94f1c5329737e8aefee7f405394ad  TX_1925.recal.bam
+aef8f9b7706089687a740944c55918d6	TX_0959.recal.bam     |	85219a02bccae9642e16a45c2ae9bb8b  TX-1929.recal.bam
+8d8637356d85eb79a81a0e101b439116	TX-0967.recal.bam     |	4e74baad26347e51d22fc8483333973c  TX-1931.recal.bam
+b39fb2f041c8b70f31a86d1f91352a45	TX-0969.recal.bam     |	9ffb43c787d4971a9da72f6dd1fc3535  TX-1935.recal.bam
+6ac0478d5fe5b64891f0642edea8adb9	TX_1009.recal.bam     |	00f7ea036b3c168513f345a1f79d9cc6  TX-1957.recal.bam
+5358d75da07599ac338f1877bdaec9c5	TX-1037.recal.bam     |	266423b352af1d7aa0527a81bb618d10  TX-1968.recal.bam
+c45da510af2a78619d9e021a2a751337	TX-1046.recal.bam     |	ea54f7e7df1a36deb62b234d59fa8063  TX_1975.recal.bam
+33b339eb3c3276c03f482099f048d07a	TX-1055.recal.bam     |	a14dcaff12b8883927ff82e5d3607e54  TX-1981.recal.bam
+63728626d16b0d72f32aa6b50f79089b	TX-1066.recal.bam     |	a36cdab20b81090e197c18263ba358b1  TX-1982.recal.bam
+dba9e2ad0fe2765774a255a8fc88c3af	TX_1075.recal.bam     |	e7623cdd75b003073f2517f0d79fdd53  TX-1988.recal.bam
+0e9d742eab36b5c9fda810b02827d466	TX-1089.recal.bam     |	4951469081d0d5c5af82c36fe42273ab  TX-1990.recal.bam
+4fec09b45c594d33e6028301eeb7cc8e	TX-1102.recal.bam     |	0b1e4f39ec869f36d3c77b6d7ab3d6f2  TX-1996.recal.bam
+12de0ae0f735c34a2eecf72375b76a16	TX-1105.recal.bam     |	9dd64e77493f8a3f7e65edf5a240025c  TX_2003.recal.bam
+38146895e71fea649721a3ad4da9640b	TX-1106.recal.bam     |	ad691d503ca10f9f2d57750865bf5026  TX-2081.recal.bam
+572213c8823a22a79bf1a3330a6ef244	TX-1107.recal.bam     |	3e6ec1eaea2696ca6791e201c3a1fe39  TX-2089.recal.bam
+acdf352360cc972ca4dfb21f19e26b64	TX_1108.recal.bam     |	18a93f6387cdfa405b954b7e76373ff0  TX-2090.recal.bam
+94d01d4f3820e3946b6af9e8fe8a33ff	TX-1110.recal.bam     |	ce453bf918f27b8e1951c4827fe0bd06  TX-2091.recal.bam
+31748b12bdbc2df5a89cc4f64a569cf8	TX_1111.recal.bam     |	0efc4e0cd5340742f3843ea58ead14aa  TX-2092.recal.bam
+1b977c20794972d89ab0050ffb617609	TX_1113.recal.bam     |	f6231729e11bf51b9f4188b74297d704  TX-2093.recal.bam
+c9657cb481369176aa6bb396c145ac95	TX-1115.recal.bam     |	ed9c855a9c80ecbfefcb8088eada2b9b  TX-2095.recal.bam
+03d77e264cc5624c5bfbe66a5167a916	TX_1120.recal.bam     |	e645e00dad83efcb4af493d5368eac3c  TX-2096.recal.bam
+bf427bced6584942324779c166bf7e5f	TX-1168.recal.bam     |	c9cd50726af669ea279554cc39b8617e  TX-2116.recal.bam
+45ea24501303fbd15e0b8200a6c43a2e	TX-1182.recal.bam     |	1f5b20b7bf295c36537e8746bc50fd08  TX_2160.recal.bam
+ec74e14922c1e78e63df56193bf123c8	TX_1183.recal.bam     |	07c1b0c4293246343d4669b37b172e47  TX-2163.recal.bam
+a8969fafc069b4eae2122259a72de184	TX-1226.recal.bam     |	a68a1bc393a082da8f479f68a6750a4d  TX-2166.recal.bam
+4c7e0e07912adb3108055d45864581eb	TX-1228.recal.bam     |	71aae221a8d681c799fe655b5d402faa  TX_2174.recal.bam
+4ddbb9ca3857bd9bba4af2f725a44026	TX-1229.recal.bam     |	052cd88ca781cfaa49d67d37ac02eb81  TX-2192.recal.bam
+ea3cada2a5c5aba3146fa63947cc9a75	TX-1236.recal.bam     |	df209fcd3f6e70513559f06119c3b664  TX-2207.recal.bam
+831d3cbbd7be0372c205cf19bfad7a41	TX-1244.recal.bam     |	f25fc9635ff007da27a3f9b84953b289  TX_2211.recal.bam
+2b0de78f225de0a866d877b3147d93d0	TX-1245.recal.bam     |	529dff886e8e99c59e3e8e77ddfec18d  TX-2213.recal.bam
+4f92213b57e96bcf4612858bcc4128ae	TX_1249.recal.bam     |	0bc949c66bbe00ee29653eda1af91fac  TX-2216.recal.bam
+06f08f36958366e52c133db379133061	TX-1257.recal.bam     |	03e52c300bcbddf60390080c66e3e3b3  TX_2226.recal.bam
+eb2cc67dde3b882cce62ae56a147f4ba	TX-1262.recal.bam     |	07bcc696fcf6dfb3c44f1ac2b9986671  TX-2228.recal.bam
+7b23974f1dec40e8061a447fbf5536fa	TX-1263.recal.bam     |	88d61c7c5cabae55bb3709511956d787  TX-2246.recal.bam
+e03102f1d428de40b23b03bcfce8556b	TX-1273.recal.bam     |	de4a0c625e29728b2b694d6295901034  TX_2247.recal.bam
+39e6c3a18e1828079183f1ca91aa08af	TX_1286.recal.bam     |	c80b8547fbc64ad4828fc200b6f5d82a  TX_2249.recal.bam
+29d2abf1d9076c62ee0733ef29646ff0	TX-1288.recal.bam     |	7756eae9d2bb1718248a291b10ec3520  TX_2252.recal.bam
+13ac78b3e792ceee1e0d153eec4f5ac5	TX-1292.recal.bam     |	7257bbb28be218fd78b3656cc13273d7  TX_2253.recal.bam
+9eef7c2a0cf417c2e57cf0e6ab7918d2	TX-1311.recal.bam     |	c71aa6ee0fcfd97efa26ecf81cc07408  TX_2254.recal.bam
+586815b872dcf5f3af3eff2e9368e2d6	TX-1317.recal.bam     |	b2018cfe7d613e5322462c09fb88b08f  TX_2265.recal.bam
+299f742f0bb773c63d60176a11da1870	TX_1349.recal.bam     |	5d37a41cc1f446ed4ea780b4983aa089  TX_2266.recal.bam
+b42adad6d3fa26f318dca7e767952c5d	TX_1367.recal.bam     |	8fcbcd9d576af6641b6f8a207fd9940b  TX_2276.recal.bam
+015a7a647df7fc1a3ae601034bc3149e	TX-1373.recal.bam     |	a638eb4195ce983ddbfd669f9d6c5f84  TX_2277.recal.bam
+9965051f95495dd939de5991ea829758	TX-1416.recal.bam     |	6e1c37fff0e496f622a160e10e33ad9c  TX_2284.recal.bam
+3d8cdb05876e61d2b78b1638c8595c58	TX-1420.recal.bam     |	faa2522a96a1f4483da67cac13044315  TX-2288.recal.bam
+cb29fbf9b69813ccf9c74f4c475d63d9	TX-1422.recal.bam     |	fb6b65d91d4bd848245ffed5d953d406  TX-2329.recal.bam
+cb131e9d0ecd4e1f1cf0c2d255453bbe	TX-1439.recal.bam     |	bd617ce03e40a4289b51b1fc3c4678c2  TX_2330.recal.bam
+4b8809767132132b5990beee1ec42c79	TX-1443.recal.bam     |	70076215fd1d407df634b9ad2d9564d4  TX-2335.recal.bam
+22f9c54fe399f51e111120afc59571ee	TX_1453.recal.bam     |	e338ca25898346dd512e079e42668188  TX_2350.recal.bam
+03da78f6c81a61d6f8217e339439a3d2	TX-1459.recal.bam     |	057b14adfa4ec1521df7f03b2bbc5e90  TX_2400.recal.bam
+2a200956aa0ebf146743f196ad9945c5	TX-1477.recal.bam     |	6dc5b866b0b980cd845f50d8d7cf0d7c  TX_2405.recal.bam
+9cde9f2fb365e1e772bd2412fea34255	TX-1487.recal.bam     |	18eaba820eedb6a93750f191be6e875a  TX-2415.recal.bam
+729817fa76b297394cd084d4b30a385f	TX-1496.recal.bam     |	72c55e39e242d63e3c7ef7eef4a96ee3  TX-2417.recal.bam
+52832019429cf6ca7e323b51561bb063	TX-1497.recal.bam     |	e51ed73baf824329747cc1b66ef6b8c1  TX_2463.recal.bam
+ad9eb8aef3ba728e9bbaf101606ee0ac	TX-1503.recal.bam     |	9c02c48034d4c85dc5bcfd778a5ed5d5  TX-2465.recal.bam
+5db9977b263458a80c916fc106a10200	TX-1509.recal.bam     |	a3bcb81bc5e06e21b80e73eb32d3a42d  TX-2470.recal.bam
+ee46e729c2058a796e845350302ea3d0	TX-1514.recal.bam     |	b56a98be3546a3b8d2cea41c4b17e5d0  TX_2475.recal.bam
+ebf421b402a828b63cb39a54ed4f8983	TX_1515.recal.bam     |	4478ec99503d5d59444f7a0c3de32da4  TX-2482.recal.bam
+937bf3e9565677245d11538a5907d21c	TX-1520.recal.bam     |	6b14b66c94cc459441c1a38dddca7d4e  TX-2487.recal.bam
+c4158b9e4aef31e11601c24be239584d	TX-1551.recal.bam     |	fc339c3e0804ef78abb9a1913202636a  TX-2489.recal.bam
+7c3b8b7a21428a39fffe8e51ecf8bd44	TX-1572.recal.bam     |	cd7285f26f593a71b2d0d2e9ad74f042  TX-2495.recal.bam
+ce2b5f6e03d8d31c85b142a6867b0d27	TX-1578.recal.bam     <
+1218e145a95c5c96c17d73cac0d15a76	TX_1579.recal.bam     <
+41091b3f4cef311209f19d695e3e22bd	TX-1582.recal.bam     <
+a485bc9af399f18970e72bc5abe2fa7f	TX-1586.recal.bam     <
+c428434e10cd3a628de82816901b2636	TX-1592.recal.bam     <
+996e4efa6dc10712f390aa036c3a9258	TX_1594.recal.bam     <
+de6f2ec6fcd645adef87aec688945954	TX-1596.recal.bam     <
+322ceee22e12b167ae6108a2bed3d897	TX-1629.recal.bam     <
+2bf5b116670d1ada1f9eb35650154e1b	TX-1635.recal.bam     <
+9eef6703a11b759a91b42984d0bf9b65	TX-1661.recal.bam     <
+f6c5b7a587402e41a261902b4c92432d	TX-1666.recal.bam     <
+3f79df8c1f9be32acaa369d801c7622a	TX-1672.recal.bam     <
+7668b0634cdeb19f84bd53791307f67c	TX-1674.recal.bam     <
+ba72907633eabdc232f1b7eb7b081a78	TX_1678.recal.bam     <
+853834f6c28bffee8ca947dc6c1566d7	TX_1688.recal.bam     <
+137f84a5d42a4da74d27749ff389a0ee	TX-1689.recal.bam     <
+6a03af116f53486ae3812f1330b5844e	TX_1690.recal.bam     <
+7be9046a772ab9498070934f370fc568	TX_1694.recal.bam     <
+f68c88d1dabddf79d9da9bdee85ee9fa	TX_1698.recal.bam     <
+be45808a3f7c6ad38cd252c88618529c	TX-1699.recal.bam     <
+93729ad09bbc51f9900e1a5cdb3a4737	TX-1702.recal.bam     <
+f16982e04495d46cc2f09448e40efebb	TX-1705.recal.bam     <
+112034d2cfb93a0ee5787e8dc46fa483	TX-1712.recal.bam     <
+4ed645b424ee8f3f1a1987eea0982a32	TX-1721.recal.bam     <
+24c2be72c7ec60328c6405de7d7671b6	TX-1748.recal.bam     <
+132db24a9c4ca2eef7d4babc0f8add2a	TX_1792.recal.bam     <
+6fde04006bbeb57e5eb333f1bf3a1c2f	TX-1833.recal.bam     <
+6cae43c0bcddcf9903e493196e9d3481	TX_1855.recal.bam     <
+f41c1cebd6c4bf0a23b7dcd49986e605	TX_1859.recal.bam     <
+5297700208ec76c36505905b61649a9c	TX_1874.recal.bam     <
+9d7bbc7dc3b765edbaa09e5831f3bb38	TX_1894.recal.bam     <
+27efc038856a728358705cb6bb70edfc	TX_1895.recal.bam     <
+ab72d382489b6dd390d7c558fef502eb	TX-1905.recal.bam     <
+a0645184f0ff016ac7cdbfad1bce33d0	TX-1920.recal.bam     <
+47b94f1c5329737e8aefee7f405394ad	TX_1925.recal.bam     <
+85219a02bccae9642e16a45c2ae9bb8b	TX-1929.recal.bam     <
+4e74baad26347e51d22fc8483333973c	TX-1931.recal.bam     <
+9ffb43c787d4971a9da72f6dd1fc3535	TX-1935.recal.bam     <
+00f7ea036b3c168513f345a1f79d9cc6	TX-1957.recal.bam     <
+266423b352af1d7aa0527a81bb618d10	TX-1968.recal.bam     <
+ea54f7e7df1a36deb62b234d59fa8063	TX_1975.recal.bam     <
+a14dcaff12b8883927ff82e5d3607e54	TX-1981.recal.bam     <
+a36cdab20b81090e197c18263ba358b1	TX-1982.recal.bam     <
+e7623cdd75b003073f2517f0d79fdd53	TX-1988.recal.bam     <
+4951469081d0d5c5af82c36fe42273ab	TX-1990.recal.bam     <
+0b1e4f39ec869f36d3c77b6d7ab3d6f2	TX-1996.recal.bam     <
+9dd64e77493f8a3f7e65edf5a240025c	TX_2003.recal.bam     <
+ad691d503ca10f9f2d57750865bf5026	TX-2081.recal.bam     <
+3e6ec1eaea2696ca6791e201c3a1fe39	TX-2089.recal.bam     <
+18a93f6387cdfa405b954b7e76373ff0	TX-2090.recal.bam     <
+ce453bf918f27b8e1951c4827fe0bd06	TX-2091.recal.bam     <
+0efc4e0cd5340742f3843ea58ead14aa	TX-2092.recal.bam     <
+f6231729e11bf51b9f4188b74297d704	TX-2093.recal.bam     <
+6f71ce36f51c9d0e70a19814cb07ab8a	TX_2094.recal.bam     <
+ed9c855a9c80ecbfefcb8088eada2b9b	TX-2095.recal.bam     <
+e645e00dad83efcb4af493d5368eac3c	TX-2096.recal.bam     <
+c9cd50726af669ea279554cc39b8617e	TX-2116.recal.bam     <
+1f5b20b7bf295c36537e8746bc50fd08	TX_2160.recal.bam     <
+07c1b0c4293246343d4669b37b172e47	TX-2163.recal.bam     <
+a68a1bc393a082da8f479f68a6750a4d	TX-2166.recal.bam     <
+71aae221a8d681c799fe655b5d402faa	TX_2174.recal.bam     <
+052cd88ca781cfaa49d67d37ac02eb81	TX-2192.recal.bam     <
+df209fcd3f6e70513559f06119c3b664	TX-2207.recal.bam     <
+f25fc9635ff007da27a3f9b84953b289	TX_2211.recal.bam     <
+529dff886e8e99c59e3e8e77ddfec18d	TX-2213.recal.bam     <
+0bc949c66bbe00ee29653eda1af91fac	TX-2216.recal.bam     <
+03e52c300bcbddf60390080c66e3e3b3	TX_2226.recal.bam     <
+07bcc696fcf6dfb3c44f1ac2b9986671	TX-2228.recal.bam     <
+88d61c7c5cabae55bb3709511956d787	TX-2246.recal.bam     <
+de4a0c625e29728b2b694d6295901034	TX_2247.recal.bam     <
+c80b8547fbc64ad4828fc200b6f5d82a	TX_2249.recal.bam     <
+7756eae9d2bb1718248a291b10ec3520	TX_2252.recal.bam     <
+7257bbb28be218fd78b3656cc13273d7	TX_2253.recal.bam     <
+c71aa6ee0fcfd97efa26ecf81cc07408	TX_2254.recal.bam     <
+b2018cfe7d613e5322462c09fb88b08f	TX_2265.recal.bam     <
+5d37a41cc1f446ed4ea780b4983aa089	TX_2266.recal.bam     <
+bf27c390a84edd779e8b7ae216e82594	TX2273.recal.bam      <
+8fcbcd9d576af6641b6f8a207fd9940b	TX_2276.recal.bam     <
+a638eb4195ce983ddbfd669f9d6c5f84	TX_2277.recal.bam     <
+6e1c37fff0e496f622a160e10e33ad9c	TX_2284.recal.bam     <
+faa2522a96a1f4483da67cac13044315	TX-2288.recal.bam     <
+fb6b65d91d4bd848245ffed5d953d406	TX-2329.recal.bam     <
+bd617ce03e40a4289b51b1fc3c4678c2	TX_2330.recal.bam     <
+70076215fd1d407df634b9ad2d9564d4	TX-2335.recal.bam     <
+e338ca25898346dd512e079e42668188	TX_2350.recal.bam     <
+057b14adfa4ec1521df7f03b2bbc5e90	TX_2400.recal.bam     <
+6dc5b866b0b980cd845f50d8d7cf0d7c	TX_2405.recal.bam     <
+18eaba820eedb6a93750f191be6e875a	TX-2415.recal.bam     <
+72c55e39e242d63e3c7ef7eef4a96ee3	TX-2417.recal.bam     <
+e51ed73baf824329747cc1b66ef6b8c1	TX_2463.recal.bam     <
+9c02c48034d4c85dc5bcfd778a5ed5d5	TX-2465.recal.bam     <
+a3bcb81bc5e06e21b80e73eb32d3a42d	TX-2470.recal.bam     <
+b56a98be3546a3b8d2cea41c4b17e5d0	TX_2475.recal.bam     <
+4478ec99503d5d59444f7a0c3de32da4	TX-2482.recal.bam     <
+6b14b66c94cc459441c1a38dddca7d4e	TX-2487.recal.bam     <
+fc339c3e0804ef78abb9a1913202636a	TX-2489.recal.bam     <
+cd7285f26f593a71b2d0d2e9ad74f042	TX-2495.recal.bam     <
+e0f1e038ba92af39ec15c9a2ee15fff1	TX321.recal.bam	      <
+							      <
