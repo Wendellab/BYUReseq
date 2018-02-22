@@ -578,101 +578,101 @@
 - [x] 	TX-1520.recal.bam
 - [x] 	TX-1551.recal.bam
 - [x] 	TX-1572.recal.bam
-- [] 	TX-1578.recal.bam
-- [] 	TX_1579.recal.bam
-- [] 	TX-1582.recal.bam
-- [] 	TX-1586.recal.bam
-- [] 	TX-1592.recal.bam
-- [] 	TX_1594.recal.bam
-- [] 	TX-1596.recal.bam
-- [] 	TX-1629.recal.bam
-- [] 	TX-1635.recal.bam
-- [] 	TX-1661.recal.bam
-- [] 	TX-1666.recal.bam
-- [] 	TX-1672.recal.bam
-- [] 	TX-1674.recal.bam
-- [] 	TX_1678.recal.bam
-- [] 	TX_1688.recal.bam
-- [] 	TX-1689.recal.bam
-- [] 	TX_1690.recal.bam
-- [] 	TX_1694.recal.bam
-- [] 	TX_1698.recal.bam
-- [] 	TX-1699.recal.bam
-- [] 	TX-1702.recal.bam
-- [] 	TX-1705.recal.bam
-- [] 	TX-1712.recal.bam
-- [] 	TX-1721.recal.bam
-- [] 	TX-1748.recal.bam
-- [] 	TX_1792.recal.bam
-- [] 	TX-1833.recal.bam
-- [] 	TX_1855.recal.bam
-- [] 	TX_1859.recal.bam
-- [] 	TX_1874.recal.bam
-- [] 	TX_1894.recal.bam
-- [] 	TX_1895.recal.bam
-- [] 	TX-1905.recal.bam
-- [] 	TX-1920.recal.bam
-- [] 	TX_1925.recal.bam
-- [] 	TX-1929.recal.bam
-- [] 	TX-1931.recal.bam
-- [] 	TX-1935.recal.bam
-- [] 	TX-1957.recal.bam
-- [] 	TX-1968.recal.bam
-- [] 	TX_1975.recal.bam
-- [] 	TX-1981.recal.bam
-- [] 	TX-1982.recal.bam
-- [] 	TX-1988.recal.bam
-- [] 	TX-1990.recal.bam
-- [] 	TX-1996.recal.bam
-- [] 	TX_2003.recal.bam
-- [] 	TX-2081.recal.bam
-- [] 	TX-2089.recal.bam
-- [] 	TX-2090.recal.bam
-- [] 	TX-2091.recal.bam
-- [] 	TX-2092.recal.bam
-- [] 	TX-2093.recal.bam
-- [] 	TX_2094.recal.bam
-- [] 	TX-2095.recal.bam
-- [] 	TX-2096.recal.bam
-- [] 	TX-2116.recal.bam
-- [] 	TX_2160.recal.bam
-- [] 	TX-2163.recal.bam
-- [] 	TX-2166.recal.bam
-- [] 	TX_2174.recal.bam
-- [] 	TX-2192.recal.bam
-- [] 	TX-2207.recal.bam
-- [] 	TX_2211.recal.bam
-- [] 	TX-2213.recal.bam
-- [] 	TX-2216.recal.bam
-- [] 	TX_2226.recal.bam
-- [] 	TX-2228.recal.bam
-- [] 	TX-2246.recal.bam
-- [] 	TX_2247.recal.bam
-- [] 	TX_2249.recal.bam
-- [] 	TX_2252.recal.bam
-- [] 	TX_2253.recal.bam
-- [] 	TX_2254.recal.bam
-- [] 	TX_2265.recal.bam
-- [] 	TX_2266.recal.bam
-- [] 	TX2273.recal.bam
-- [] 	TX_2276.recal.bam
-- [] 	TX_2277.recal.bam
-- [] 	TX_2284.recal.bam
-- [] 	TX-2288.recal.bam
-- [] 	TX-2329.recal.bam
-- [] 	TX_2330.recal.bam
-- [] 	TX-2335.recal.bam
-- [] 	TX_2350.recal.bam
-- [] 	TX_2400.recal.bam
-- [] 	TX_2405.recal.bam
-- [] 	TX-2415.recal.bam
-- [] 	TX-2417.recal.bam
-- [] 	TX_2463.recal.bam
-- [] 	TX-2465.recal.bam
-- [] 	TX-2470.recal.bam
-- [] 	TX_2475.recal.bam
-- [] 	TX-2482.recal.bam
-- [] 	TX-2487.recal.bam
-- [] 	TX-2489.recal.bam
-- [] 	TX-2495.recal.bam
-- [] 	TX321.recal.bam
+- [ ] 	TX-1578.recal.bam
+- [ ] 	TX_1579.recal.bam
+- [ ] 	TX-1582.recal.bam
+- [ ] 	TX-1586.recal.bam
+- [ ] 	TX-1592.recal.bam
+- [ ] 	TX_1594.recal.bam
+- [ ] 	TX-1596.recal.bam
+- [ ] 	TX-1629.recal.bam
+- [ ] 	TX-1635.recal.bam
+- [ ] 	TX-1661.recal.bam
+- [ ] 	TX-1666.recal.bam
+- [ ] 	TX-1672.recal.bam
+- [ ] 	TX-1674.recal.bam
+- [ ] 	TX_1678.recal.bam
+- [ ] 	TX_1688.recal.bam
+- [ ] 	TX-1689.recal.bam
+- [ ] 	TX_1690.recal.bam
+- [ ] 	TX_1694.recal.bam
+- [ ] 	TX_1698.recal.bam
+- [ ] 	TX-1699.recal.bam
+- [ ] 	TX-1702.recal.bam
+- [ ] 	TX-1705.recal.bam
+- [ ] 	TX-1712.recal.bam
+- [ ] 	TX-1721.recal.bam
+- [ ] 	TX-1748.recal.bam
+- [ ] 	TX_1792.recal.bam
+- [ ] 	TX-1833.recal.bam
+- [ ] 	TX_1855.recal.bam
+- [ ] 	TX_1859.recal.bam
+- [ ] 	TX_1874.recal.bam
+- [ ] 	TX_1894.recal.bam
+- [ ] 	TX_1895.recal.bam
+- [ ] 	TX-1905.recal.bam
+- [ ] 	TX-1920.recal.bam
+- [ ] 	TX_1925.recal.bam
+- [ ] 	TX-1929.recal.bam
+- [ ] 	TX-1931.recal.bam
+- [ ] 	TX-1935.recal.bam
+- [ ] 	TX-1957.recal.bam
+- [ ] 	TX-1968.recal.bam
+- [ ] 	TX_1975.recal.bam
+- [ ] 	TX-1981.recal.bam
+- [ ] 	TX-1982.recal.bam
+- [ ] 	TX-1988.recal.bam
+- [ ] 	TX-1990.recal.bam
+- [ ] 	TX-1996.recal.bam
+- [ ] 	TX_2003.recal.bam
+- [ ] 	TX-2081.recal.bam
+- [ ] 	TX-2089.recal.bam
+- [ ] 	TX-2090.recal.bam
+- [ ] 	TX-2091.recal.bam
+- [ ] 	TX-2092.recal.bam
+- [ ] 	TX-2093.recal.bam
+- [ ] 	TX_2094.recal.bam
+- [ ] 	TX-2095.recal.bam
+- [ ] 	TX-2096.recal.bam
+- [ ] 	TX-2116.recal.bam
+- [ ] 	TX_2160.recal.bam
+- [ ] 	TX-2163.recal.bam
+- [ ] 	TX-2166.recal.bam
+- [ ] 	TX_2174.recal.bam
+- [ ] 	TX-2192.recal.bam
+- [ ] 	TX-2207.recal.bam
+- [ ] 	TX_2211.recal.bam
+- [ ] 	TX-2213.recal.bam
+- [ ] 	TX-2216.recal.bam
+- [ ] 	TX_2226.recal.bam
+- [ ] 	TX-2228.recal.bam
+- [ ] 	TX-2246.recal.bam
+- [ ] 	TX_2247.recal.bam
+- [ ] 	TX_2249.recal.bam
+- [ ] 	TX_2252.recal.bam
+- [ ] 	TX_2253.recal.bam
+- [ ] 	TX_2254.recal.bam
+- [ ] 	TX_2265.recal.bam
+- [ ] 	TX_2266.recal.bam
+- [ ] 	TX2273.recal.bam
+- [ ] 	TX_2276.recal.bam
+- [ ] 	TX_2277.recal.bam
+- [ ] 	TX_2284.recal.bam
+- [ ] 	TX-2288.recal.bam
+- [ ] 	TX-2329.recal.bam
+- [ ] 	TX_2330.recal.bam
+- [ ] 	TX-2335.recal.bam
+- [ ] 	TX_2350.recal.bam
+- [ ] 	TX_2400.recal.bam
+- [ ] 	TX_2405.recal.bam
+- [ ] 	TX-2415.recal.bam
+- [ ] 	TX-2417.recal.bam
+- [ ] 	TX_2463.recal.bam
+- [ ] 	TX-2465.recal.bam
+- [ ] 	TX-2470.recal.bam
+- [ ] 	TX_2475.recal.bam
+- [ ] 	TX-2482.recal.bam
+- [ ] 	TX-2487.recal.bam
+- [ ] 	TX-2489.recal.bam
+- [ ] 	TX-2495.recal.bam
+- [ ] 	TX321.recal.bam
