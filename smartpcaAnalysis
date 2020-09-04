@@ -1,0 +1,36 @@
+#!/usr/bin/perl
+
+$ENV{'PATH'} = "../bin:$ENV{'PATH'}";
+# MUST put smartpca bin directory in path for smartpca.perl to work
+
+file=$1
+
+$command = "smartpca.perl";
+$command .= " -i ${file}.geno ";
+$command .= " -a ${file}.snp ";
+$command .= " -b ${file}.ind " ;
+$command .= " -k 4 ";
+$command .= " -o ${file}.pca ";
+$command .= " -p ${file}.plot ";
+$command .= " -e ${file}.eval ";
+$command .= " -l ${file}.log ";
+$command .= " -m 5 ";
+$command .= " -t 2 ";
+$command .= " -s 6.0 ";
+print("$command\n");
+system("$command");
+
+#$command = "smarteigenstrat.perl ";
+#$command .= " -i ${file}.geno ";
+#$command .= " -a ${file}.snp ";
+#$command .= " -b ${file}.ind ";
+#$command .= " -p ${file}.pca ";
+#$command .= " -k 1 ";
+#$command .= " -o ${file}.chisq ";
+#$command .= " -l ${file}.log ";
+#print("$command\n");
+#system("$command");
+#
+#$command = "gc.perl ${file}.chisq ${file}.chisq.GC";
+#print("$command\n");
+#system("$command");
