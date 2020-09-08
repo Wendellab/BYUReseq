@@ -1,0 +1,213 @@
+### From Josh
+# Two ways to assess the introgressed regions in the categorized bam file.
+# 1)	Use elfen
+#
+# It takes a sorted, categorized file and identifies segments of contiguous SNPs (haplotype) within a given window. I tried window sizes of 1000, 500, and 100. The 500 was best.
+
+### check for missing files
+find ../[AD]* -iname "*500.gff" | while read line; do name=`echo $line | sed 's/[.][BH][.]500[.]gff//g' | sort | uniq`; ls -lah $name.B.500.gff; ls -lah $name.H.500.gff; echo; done | grep cannot
+# ls: cannot access ../A04/M538-11.recal.sorted.A04.H.500.gff: No such file or directory
+# ls: cannot access ../A06/SRR4006664.recal.sorted.A06.H.500.gff: No such file or directory
+# ls: cannot access ../A06/BPS1149.recal.sorted.A06.B.500.gff: No such file or directory
+# ls: cannot access ../A07/GB_1444.recal.sorted.A07.H.500.gff: No such file or directory
+# ls: cannot access ../A12/DIV_055.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A12/SRR4013889.recal.sorted.A12.B.500.gff: No such file or directory
+# ls: cannot access ../A12/SA-0238.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A12/SA-1596.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A12/SRR4006688.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A12/M539_15.recal.sorted.A12.B.500.gff: No such file or directory
+# ls: cannot access ../A12/M9.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A12/DIV_355.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A12/DIV_245.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A12/GB-0093.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A12/GB-CL2-1.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A12/Coker315.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A12/BPS1152.recal.sorted.A12.B.500.gff: No such file or directory
+# ls: cannot access ../A12/SA-1725.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A12/GB-0245.recal.sorted.A12.H.500.gff: No such file or directory
+# ls: cannot access ../A13/GB_0790_Merge.recal.sorted.A13.H.500.gff: No such file or directory
+# ls: cannot access ../A13/GB_0091.recal.sorted.A13.H.500.gff: No such file or directory
+# ls: cannot access ../A13/Div-382.recal.sorted.A13.H.500.gff: No such file or directory
+# ls: cannot access ../A13/SRR4018967.recal.sorted.A13.H.500.gff: No such file or directory
+# ls: cannot access ../A13/GB-0113.recal.sorted.A13.B.500.gff: No such file or directory
+# ls: cannot access ../A13/BPS1247.recal.sorted.A13.H.500.gff: No such file or directory
+# ls: cannot access ../A13/TX-1957.recal.sorted.A13.H.500.gff: No such file or directory
+# ls: cannot access ../A13/SA-2330.recal.sorted.A13.B.500.gff: No such file or directory
+# ls: cannot access ../A13/GB287.recal.sorted.A13.H.500.gff: No such file or directory
+# ls: cannot access ../A13/GB-0232.recal.sorted.A13.B.500.gff: No such file or directory
+# ls: cannot access ../A13/GB_0314.recal.sorted.A13.H.500.gff: No such file or directory
+# ls: cannot access ../A13/FM832.recal.sorted.A13.B.500.gff: No such file or directory
+# ls: cannot access ../A13/TX-1420.recal.sorted.A13.B.500.gff: No such file or directory
+# ls: cannot access ../A13/GB_0349.recal.sorted.A13.H.500.gff: No such file or directory
+# ls: cannot access ../A13/SA-3777.recal.sorted.A13.H.500.gff: No such file or directory
+# ls: cannot access ../D13/SA-0857.recal.sorted.D13.B.500.gff: No such file or directory
+# ls: cannot access ../D13/SA-1166.recal.sorted.D13.B.500.gff: No such file or directory
+
+# place these names in a file called 'missing.files'
+
+### recover these files from /lss/research/jfw-udall/cotton_seq/ReSeq_Project/BGI/new_[BH]_files
+# recovered files are not split by chr
+# spot check recovered files to make sure they are correct
+
+for a in old.recovered/recovered_gff/*.gff; do echo $a >> comparison; grep A03 old.recovered/recovered_gff/BPS1148.recal.B.500.gff | head >> comparison; echo fromJosh >> comparison; head A03/BPS1148.recal.sorted.A03.B.500.gff >> comparison; echo >> comparison; done
+
+for a in old.recovered/recovered_gff/*.gff; do echo $a >> comparison; grep -c A03 old.recovered/recovered_gff/BPS1148.recal.B.500.gff >> comparison; echo fromJosh >> comparison; wc -l A03/BPS1148.recal.sorted.A03.B.500.gff >> comparison; echo >> comparison; done
+
+# place recovered files in working directory
+mkdir /work/LAS/jfw-lab/BYU_introgression/genic_introgression/recovered
+cp * /work/LAS/jfw-lab/BYU_introgression/genic_introgression/recovered
+cd /work/LAS/jfw-lab/BYU_introgression/genic_introgression/recovered
+for b in *.recovered.H.500.gff; do for a in {01..13}; do grep A$a $b > ${b%.H.500.gff}.A$a.H.500.gff; grep D$a $b > ${b%.H.500.gff}.D$a.H.500.gff; done; done
+for b in *.recovered.B.500.gff; do for a in {01..13}; do grep A$a $b > ${b%.B.500.gff}.A$a.B.500.gff; grep D$a $b > ${b%.B.500.gff}.D$a.B.500.gff; done; done
+
+
+### gather and concatenate the files from /work/LAS/jfw-lab/BYU_introgression/[AD][01][0-9]
+# B = regions with hirsutum alleles
+# H = regions with barbadense alleles
+cd /work/LAS/jfw-lab/BYU_introgression/genic_introgression
+mkdir toMerge
+mkdir merged_sorted
+
+find ../[AD]* -iname "*500.gff" | while read line; do cp $line /work/LAS/jfw-lab/BYU_introgression/genic_introgression/toMerge/ ; done
+cat missing.files | while read line; do name=`echo $line | sed 's/recal[.]sortedgff/recovered/g'`; ls recovered/$name; done
+sed 's/recal[.]sorted/recovered/g' missing.files | while read line; do cp recovered/$line toMerge/ ; done
+
+# cp: cannot stat ‘recovered/TX-1420.recovered.A13.B.500.gff’: No such file or directory  --> file not recovered
+
+### make sure everything has 52 files and see number of samples
+ls toMerge/ | cut -f1 -d '.' | sort | uniq -c      # 52 each, ok
+ls toMerge/ | cut -f1 -d '.' | sort | uniq | wc -l # 996
+
+
+### merge chromosomes and check again
+
+find toMerge/ -iname "*500.gff" | while read line; do basename $line | sed 's/[.]rec.*//g' ; done | sort | uniq > list.of.samples
+cat list.of.samples | while read line; do cat toMerge/$line.re*.B.500.gff > chr_merged/$line.chrmerged.B.gff; cat toMerge/$line.re*.H.500.gff > chr_merged/$line.chrmerged.H.gff; done
+ls chr_merged/ | cut -f1 -d '.' | sort | uniq -c      # 2 each, ok
+ls chr_merged/ | cut -f1 -d '.' | sort | uniq | wc -l # still 996, so that's good
+
+
+### merge adjacent blocks annotated as same allele that are within 30000 of the next
+# check again because paranoia is all the rage
+
+find chr_merged/ -iname "*.H.gff" | while read line; do 
+name=`basename $line | sed 's/[.]chrmerged[.]H[.]gff//g' `
+cat <(sed 's/Region/AD1_allele_Region/g' ${line%.H.gff}.B.gff)  <(sed 's/Region/AD2_allele_Region/g' $line) | sort -k1,1 -k4,4n | awk '
+BEGIN { cur = "^$" }
+    $9 ~ cur && ($4 - stop < 30000) && (chr == $1) {
+       stop = $5;
+       label = label "," substr($9, 12);
+    }
+    $9 !~ cur || ($4 - stop >= 30000) || (chr != $1) {
+      printf "%s\t%d\t%d\t%s\n", chr, start, stop, label;
+      chr = $1;
+      start = $4;
+      stop = $5;
+      label = $9;
+      cur = substr($9, 1, 5);
+    }
+    END {
+      printf "%s\t%d\t%d\t%s\n", chr, start, stop, label;
+    } ' > merged_sorted/$name.merged.gff; done 
+
+ls merged_sorted/ | cut -f1 -d '.' | sort | uniq -c      # 1 each, ok
+ls merged_sorted/ | cut -f1 -d '.' | sort | uniq | wc -l # still 996, rock on
+
+
+
+
+### separate files by AD1 vs AD2
+# B = regions with hirsutum alleles
+# H = regions with barbadense alleles
+
+# R script to prepare a list of queries and identities
+# S <- read.table(file="SamplesAll.Name.Convert.txt", header=T, sep="\t", fill=T)
+# S <- S[,c(4,7)]
+# l <- read.table(file="list.of.samples", sep="\t", fill=T)
+# colnames(l) <- "Sample"
+# colnames(S)[1] <- "Sample"
+# both <- merge(S,l,by="Sample", all.y=T)
+# both[993,2] <- "AD2" # fill by hand, based on grep of file
+# both[994,2] <- "AD2"
+# both[995,2] <- "AD2"
+# both[996,2] <- "AD2"
+# write.table(both, file="sample.species", quote=F, sep="\t", row.names=F)
+
+# check this file and note that some AD6/7 are in here
+wc -l sample.species # 997, samples plus header
+head sample.species
+# Sample  Species
+# 11-2091-1       AD1
+# 11-2100 AD1
+# AcalaUltima     AD1
+# AD7     AD7
+# Als-MU  AD1
+# Als-WT  AD1
+# BPS1148 AD1
+# BPS1149 AD1
+# BPS1151 AD1
+
+
+### use sample.species to sort the files by AD1 and AD2
+grep AD1 sample.species > all.AD1.txt
+grep AD2 sample.species > all.AD2.txt
+
+cut -f1 all.AD1.txt | while read line; do cp merged_sorted/$line.* AD1_with_AD2_alleles/ ; done
+cut -f1 all.AD2.txt | while read line; do cp merged_sorted/$line.* AD2_with_AD1_alleles/ ; done
+
+# make sure we have the right number of files in the end
+wc -l all.AD1.txt # 782
+ls AD1_with_AD2_alleles/ | wc -l # 782, rock and roll
+
+wc -l all.AD2.txt # 211
+ls AD2_with_AD1_alleles/ | wc -l # 211, w00t
+
+
+### remove native alleles from each
+ls AD1_with_AD2_alleles/ | while read line; do sed -i '/AD1_allele/d' AD1_with_AD2_alleles/$line; done
+ls AD2_with_AD1_alleles/ | while read line; do sed -i '/AD2_allele/d' AD2_with_AD1_alleles/$line; done
+
+# remove the first line that has only zeroes
+ls AD1_with_AD2_alleles/ | while read line; do sed -i '1d' AD1_with_AD2_alleles/$line; done
+ls AD2_with_AD1_alleles/ | while read line; do sed -i '1d' AD2_with_AD1_alleles/$line; done
+
+### bedtools intersect to get the genes under each
+mkdir AD2_genes_in_AD1
+mkdir AD1_genes_in_AD2
+
+module load bedtools2
+ls AD1_with_AD2_alleles/ | while read line; do bedtools intersect -a AD1_with_AD2_alleles/$line -b Tx-JGI_G.hirsutum_v1.1.gene_only.2.gff3 -wa -wb | cut -f1,2,3,4,8,9,13 > AD2_genes_in_AD1/${line%.merged.gff}.genes.from.AD2; done
+ls AD2_with_AD1_alleles/ | while read line; do bedtools intersect -a AD2_with_AD1_alleles/$line -b Tx-JGI_G.hirsutum_v1.1.gene_only.2.gff3 -wa -wb | cut -f1,2,3,4,8,9,13 > AD1_genes_in_AD2/${line%.merged.gff}.genes.from.AD1; done
+
+### start to summarize stuff
+
+[corrinne@speedy6 genic_introgression]$ awk -v var="$name" '{print var,$0} ' AD1_genes_in_AD2/phy76.genes.from.AD1
+
+ls AD2_genes_in_AD1/ | while read line; do awk -v var="${line%.genes.from.AD2}" ' {print var,$0} ' AD2_genes_in_AD1/$line | sed 's/,Region/,/g' >> all.AD2.introgression.into.AD1; done
+ls AD1_genes_in_AD2/ | while read line; do awk -v var="${line%.genes.from.AD1}" ' {print var,$0} ' AD1_genes_in_AD2/$line | sed 's/,Region/,/g' >> all.AD1.introgression.into.AD2; done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
