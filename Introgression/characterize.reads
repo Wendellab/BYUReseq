@@ -1,0 +1,24 @@
+#### Methods to assess putative regions of introgression using polycat/eflen from Bambam
+# wd = cd /fslgroup/cotton_seq/compute/ReSeq_Project/BGI/Map2Texas/ 
+
+# sampling/accessions used for making the the SNP index are listed
+# in the file bam_categories_2.txt. For this, we chose a range of 
+# wild G. hirsutum, as well as its close relatives (G. ekmanianum
+# and G. stephensii), to represent G. hirsutum SNPs (denoted as W) 
+# and a broad sampling of wild G. barbadense (E).
+
+# run interSnp
+interSnp -r GhTexas.fa -f 0.25 -t 24 -v GhWGbE.SNP.2.vcf -w GhWGbE.SNP.2.HapMap *.recal.bam > GhWGbE.SNP.2.txt 
+
+# create the SNP table from the interSnp output
+./snpMerge.pl bam_categories_2.txt GhWGbE.SNP.2.txt 0.9 > GhWGbE.09.2.index.snp 
+
+# run polyCat to divide reads into G. hirsutum-like reads (W)
+# or G. barbadense-like reads (E) for each file
+# files are the recalibrated bams from gatk
+for $file in *.bam; do polyCat -s GhWGbE.09.2.index.snp $file; done
+
+# run eflen on each segrated E or W file
+for file in *.W.bam; do eflen -L 500 $file > ${file%.bam}.500.gff; done
+
+# proceed to analysis.methods
