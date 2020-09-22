@@ -1,0 +1,166 @@
+SampleID,SampleID2,Name,Type1,Gene Pool,Country,State,City,Lat2,Lon2,Type
+GB-0085,GB0085,Tanguis LMW 12-40,Cultivar,Pima,Peru,,,-9.17,-74.36,Cultivar
+GB-0093,GB0093,LA CHIMBA #2,Cultivar,Hybrid-B?,Chile,,,-34.24,-71.22,Cultivar
+GB-0204,GB0204,Mono 57,Cultivar,,Togo,Kolokope,,7.80,1.29,Cultivar
+GB-0211,GB0211,Lambert X1730,Cultivar,,Sudan,El Gizira,Wad Medani,14.41,33.51,Cultivar
+GB-0212,GB0212,CB 2761,Cultivar,,Ethiopia,Diredawa,,9.61,42.01,Cultivar
+GB-0220,GB0220,Old Pima,Cultivar,Pima,United States,,,39.50,-98.99,Cultivar
+GB-0224,GB0224,Pima S-1,Cultivar,Hybrid-B,United States,,,39.50,-98.99,Cultivar
+GB-0230,GB0230,Ashmouni Giza 32,Cultivar,Hybrid-B,Egypt,,,26.58,29.78,Cultivar
+GB-0232,GB0232,Bahtim 185,Cultivar,,Egypt,,,26.58,29.78,Cultivar
+GB-0238,GB0238,Sea Islands 12B2,Cultivar,Hybrid-B,United States,,,39.50,-98.99,Cultivar
+GB-0242,GB0242,Barb Taashkent,Cultivar,,Uzbekistan,Tashkent,,41.32,69.31,Cultivar
+GB-0245,GB0245,Sea Islands,Cultivar,,United States,,,39.50,-98.99,Cultivar
+GB-0251,GB0251,Superfine V46,Cultivar,,United States,,,39.50,-98.99,Cultivar
+GB-0254,GB0254,Russian Sea Islands,Cultivar,Pima?,Russia,,,61.76,99.88,Cultivar
+GB-0255,GB0255,Russian,Cultivar,,Russia,,,61.76,99.88,Cultivar
+GB-0258,GB0258,Fiji Sea Islands,Cultivar,,Fiji,,,-17.84,177.96,Cultivar
+GB-0461,GB0461,Mono 57,Cultivar,,Togo,Kolokope,,7.80,1.29,Cultivar
+GB-0467,GB0467,AZB 1020,Cultivar,,Phillipines,Luzon,Manila,14.61,120.98,Cultivar
+GB-0647,GB0647,Bobo,Cultivar,,Ivory Coast,,,7.62,-5.55,Cultivar
+GB-0648,GB0648,Grand Akoudsin,Cultivar,,Ivory Coast,,,7.62,-5.55,Cultivar
+GB-0649,GB0649,Ishan Nigeria,Cultivar,,Ivory Coast,,,7.62,-5.55,Cultivar
+GB-0655,GB0655,Tanguis CNW 748-60,Cultivar,Pima,Peru,,,-9.17,-74.36,Cultivar
+GB-0657,GB0657,Tanguis LM 1041-49,Cultivar,Pima,Peru,,,-9.17,-74.36,Cultivar
+GB-0660,GB0660,Tanguis ICA 757-60,Cultivar,Pima,Peru,,,-9.17,-74.36,Cultivar
+GB-0662,GB0662,Tanguis LMW 1736-60,Cultivar,Pima,Peru,,,-9.17,-74.36,Cultivar
+GB-0683,GB0683,Coastland RN-45,Cultivar,,United States,,,39.50,-98.99,Cultivar
+GB-0720,GB0720,Tanguis 45,Cultivar,Pima,United States,,,39.50,-98.99,Cultivar
+GB-0739,GB0739,Palmyra 27,Cultivar,,Syria,,,35.02,38.52,Cultivar
+GB-0740,GB0740,Palmyra 39,Cultivar,,Syria,,,35.02,38.52,Cultivar
+GB-0785,GB0785,7318-V,Cultivar,,Russia,Saint Petersburg,,60.24,29.65,Cultivar
+GB-0790,GB0790,Ashabad 1615,Cultivar,,Russia,Saint Petersburg,,60.24,29.65,Cultivar
+GB-0805,GB0805,Ashabad 11,Cultivar,,Russia,Saint Petersburg,,60.24,29.65,Cultivar
+GB-1027,GB1027,American Pima,Cultivar,,United States,Arizona,"Maricopa,USDA-ARS",33.06,-112.05,Cultivar
+GB-1031,GB1031,P62,Cultivar,,United States,Arizona,Tempe,33.43,-111.94,Cultivar
+GB-1069,GB1069,Russian No. 196,Cultivar,,Russia,Saint Petersburg,,60.24,29.65,Cultivar
+GB-1084,GB1084,"L-2113 ""Angorskii""",Cultivar,,Russia,Saint Petersburg,,60.24,29.65,Cultivar
+GB-1086,GB1086,928-Fuadi,Cultivar,,Russia,Saint Petersburg,,60.24,29.65,Cultivar
+GB-1329,GB1329,E14,Cultivar,,United States,Arizona,"Maricopa, USDA-ARS",33.06,-112.05,Cultivar
+GB-1336,GB1336,Giza 75 (??),Cultivar,Scaton,Egypt,,,26.58,29.78,Cultivar
+GB-1383,GB1383,Tanguis SNAW 22,Cultivar,Pima,Peru,Lima,,-11.79,-76.63,Cultivar
+GB-1384,GB1384,Tanguis CN 127-318,Cultivar,Pima,Peru,Lima,,-11.79,-76.63,Cultivar
+GB-1386,GB1386,Tanguis LMW 1-59,Cultivar,Pima,Peru,Lima,,-11.79,-76.63,Cultivar
+GB-1388,GB1388,Tanguis ICAW 274-59,Cultivar,Pima,Peru,Lima,,-11.79,-76.63,Cultivar
+GB-1438,GB1438,Menoufi,Cultivar,,Egypt,,,26.58,29.78,Cultivar
+GB-1439,GB1439,Tadla 2,Cultivar,,Morocco,,,31.84,-6.28,Cultivar
+GB-1444,GB1444,Giza 31,Cultivar,Scaton,Egypt,,,26.58,29.78,Cultivar
+GB-1449,GB1449,Giza 59,Cultivar,Scaton,Egypt,,,26.58,29.78,Cultivar
+GB-1459,GB1459,CNH-67,Cultivar,,Peru,,,-9.17,-74.36,Cultivar
+GB-1462,GB1462,Pima Direx,Cultivar,Pima,United States,,,39.50,-98.99,Cultivar
+GB-1464,GB1464,Tanguis 84-65,Cultivar,Pima,Peru,,,-9.17,-74.36,Cultivar
+GB-1465,GB1465,Local,Cultivar,,India,,,22.49,79.74,Cultivar
+GB-1468,GB1468,Local,Cultivar,,India,,,22.49,79.74,Cultivar
+GB-1480,GB1480,Pima S-3 Cultivar,Cultivar,Pima,United States,,,39.50,-98.99,Cultivar
+GB-1482,GB1482,Pima Peruano,Cultivar,Pima,Peru,,,-9.17,-74.36,Cultivar
+GB-1483,GB1483,VPE-2,Cultivar,,Pakistan,,,29.36,68.80,Cultivar
+GB-1512,GB1512,Pima S-4,Cultivar,Pima/Sacaton,United States,,,39.50,-98.99,Cultivar
+GB-1513,GB1513,Baracat,Cultivar,,Sudan,,,15.98,29.95,Cultivar
+SA-0706,SA0706,ST. VINCENT RIVERS (G. barb.),Cultivar,,St. Vincent Wi,,,12.98,61.29,Cultivar
+SA-1497,SA1497,PIMA S5 (G. barbadense),Cultivar,Pima/Sacaton,United States,Arizona,Tempe,33.43,-111.94,Cultivar
+GB-0128,GB0128,,Wild/Landrace,,Argentina,Salta,Cachi,-25.12,-66.16,Lanrace2
+GB-0136,GB0136,,Wild/Landrace,,Argentina,Formosa,Tucumancito,-24.09,-61.47,Lanrace2
+GB-0140,GB0140,,Wild/Landrace,,Argentina,Formosa,La Zanja,-34.75,-58.37,Lanrace2
+GB-0144,GB0144,,Wild/Landrace,,Argentina,Formosa,El Chorro,-23.19,-62.32,Lanrace1
+GB-0156,GB0156,,Wild/Landrace,,Argentina,Catamarca,Piedra Blanca,-28.40,-65.70,Lanrace1
+GB-0167,GB0167,,Wild/Landrace,,Argentina,Corrientes,Itatê,-27.27,-58.24,Lanrace1
+GB-0169,GB0169,,Wild/Landrace,,Argentina,Corrientes,Mburucuy_,-28.05,-58.23,Lanrace1
+GB-0176,GB0176,,Wild/Landrace,,Argentina,Corrientes,Concepci‹n,-28.39,-57.90,Lanrace1
+GB-0631,GB0631,CE-SP 131,Wild/Landrace,,Argentina,Catamarca,San Isidro,-28.46,-65.71,Wild
+GB-0181,GB0181,,Wild/Landrace,,Paraguay,Alto Paraguay,Puerto Aguirre,-20.62,-59.37,Lanrace2
+GB-0278,GB0278,,Wild/Landrace,,Cuba,Soledad,,20.42,-75.46,Lanrace2
+GB-0273,GB0273,,Wild/Landrace,,Dominican Republic,Puerto Plata,,19.74,-70.80,Lanrace2
+GB-0489,GB0489,,Wild/Landrace,,French Guiana,Guiana,,3.98,-53.19,Lanrace2
+GB-0593,GB0593,,Wild/Landrace,,France,Guadeloupe,Les Saintes Island,15.86,-61.60,Lanrace2
+GB-0517,GB0517,,Wild/Landrace,,France,Guadeloupe,,16.51,-61.46,Lanrace2
+GB-0275,GB0275,,Wild/Landrace,,Haiti,Croix De Bouquets,,18.59,-72.20,Lanrace2
+GB-0034,GB0034,,Wild/Landrace,,Haiti,2K S of Cap Haitien,,19.74,-72.19,Lanrace2
+GB-0262,GB0262,,Wild/Landrace,,St. Lucia,Gros Isle,,14.08,-60.95,Wild
+GB-0264,GB0264,,Wild/Landrace,,St. Lucia,,,13.90,-60.97,Lanrace2
+GB-0049,GB0049,,Wild/Landrace,,St. Lucia,Marquis Estate,,13.90,-60.97,Lanrace2
+GB-0440,GB0440,,Wild/Landrace,,Costa Rica,Limon,Limon,9.99,-83.03,Lanrace2
+GB-0348,GB0348,,Wild/Landrace,,Brazil,Espirito Santo,Bandeira,-20.31,-40.31,Lanrace2
+GB-0349,GB0349,,Wild/Landrace,,Brazil,Espirito Santo,Bandeira,-20.31,-40.31,Lanrace2
+GB-0376,GB0376,,Wild/Landrace,,Brazil,Para,Belem,-1.45,-48.50,Lanrace2
+GB-0426,GB0426,,Wild/Landrace,,Brazil,Para,Belem,-1.45,-48.50,Lanrace2
+GB-0193,GB0193,,Wild/Landrace,,Brazil,Goias,,-16.69,-49.26,Lanrace2
+GB-0776,GB0776,,Wild/Landrace,,Brazil,Amazonas,Maves,-3.12,-60.01,Lanrace2
+GB-0051,GB0051,,Wild/Landrace,,Guyana,Georgetown,,6.81,-58.16,Lanrace2
+GB-0052,GB0052,,Wild/Landrace,,Guyana,"Mara Rd., New Amsterdam",,6.25,-57.52,Lanrace2
+GB-0053,GB0053,,Wild/Landrace,,Guyana,"Mara, Barbile",,4.98,-59.09,Lanrace2
+GB-0337,GB0337,,Wild/Landrace,,Surinam,Nieuw Amsterdam,,5.91,-55.07,Lanrace2
+GB-0339,GB0339,,Wild/Landrace,,Surinam,Jodensavanna,,5.42,-54.96,Lanrace2
+GB-0382,GB0382,,Wild/Landrace,,Venezuela,Orinoco,,8.08,-63.52,Lanrace2
+GB-0386,GB0386,,Wild/Landrace,,Venezuela,Merida,Lake Maracaibo,10.60,-71.76,Lanrace2
+GB-0281,GB0281,,Wild/Landrace,,Bermuda Bwi,St. George,,32.39,-64.68,Lanrace2
+GB-0636,GB0636,,Wild/Landrace,,Mexico,Michoac_n,Jungapeo,19.46,-100.49,Lanrace1
+GB-0457,GB0457,,Wild/Landrace,,Tonga,,,-21.17,-175.19,Lanrace2
+GB-0864,GB0864,,Cultivar,,Russia,,,61.76,99.88,Cultivar
+GB-0434,GB0434,,Wild/Landrace,,Bolivia,Beni,Reyes,-14.30,-67.34,Lanrace2
+GB-0095,GB0095,,Wild/Landrace,,Bolivia,Beni,Ivon Village near Riberalta,-11.13,-66.13,Lanrace2
+GB-0102,GB0102,,Wild/Landrace,,Bolivia,La Paz,Aten,-14.92,-68.37,Lanrace2
+GB-0113,GB0113,,Wild/Landrace,,Bolivia,Chuquisaca,Carapari Del Rio Grande,-20.26,-63.70,Lanrace1
+GB-0119,GB0119,,Wild/Landrace,,Bolivia,Santa Cruz,San Javier,-16.28,-62.51,Lanrace2
+GB-0361,GB0361,,Wild/Landrace,,Colombia,Tolima,,4.04,-75.25,Lanrace2
+GB-0371,GB0371,,Wild/Landrace,,Colombia,Narino,Mercaderes,1.54,-77.85,Lanrace1
+GB-0377,GB0377,,Wild/Landrace,,Colombia,Caqueta,Florencia,1.61,-75.61,Lanrace2
+GB-0524,GB0524,,Wild/Landrace,,Colombia,Cauca,"Rio Mandiva, 7K S of Santander",6.50,-72.62,Lanrace2
+GB-0428,GB0428,,Wild/Landrace,,Colombia,Santander,,6.70,-73.49,Lanrace2
+GB-0430,GB0430,,Wild/Landrace,,Colombia,Putumayo,,0.46,-75.86,Lanrace2
+GB-0533,GB0533,,Wild/Landrace,,Colombia,Meta,Puerto Lopez,4.09,-72.96,Lanrace2
+GB-0536,GB0536,,Wild/Landrace,,Colombia,Arauca,Saravena,6.95,-71.87,Lanrace1
+GB-0429,GB0429,,Wild/Landrace,,Colombia,Santander,,6.70,-73.49,Lanrace2
+GB-0594,GB0594,,Wild/Landrace,,Ecuador,Loja,Toma,-4.09,-79.66,Lanrace1
+GB-0600,GB0600,,Wild/Landrace,,Ecuador,Loja,Arenillas,-4.09,-79.66,Lanrace1
+GB-0307,GB0307,,Wild/Landrace,,Ecuador,Guayas,Guayaquil,-2.16,-79.93,Lanrace1
+GB-0309,GB0309,,Wild/Landrace,,Ecuador,Guayas,,-2.19,-79.91,Lanrace1
+GB-0313,GB0313,,Wild/Landrace,,Ecuador,Guayas,,-2.19,-79.91,Lanrace1
+GB-0314,GB0314,,Wild/Landrace,,Ecuador,Guayas,,-2.19,-79.91,Lanrace1
+GB-0394,GB0394,,Wild/Landrace,,Ecuador,Manabi,Bahia De Charaquez,-0.60,-80.43,Lanrace1
+GB-0623,GB0623,,Wild/Landrace,,Ecuador,Puerto Bazueriza,,-0.90,-89.61,Wild
+GB-0569,GB0569,,Wild/Landrace,,Peru,Loreto,Iquitos,-3.73,-73.24,Lanrace2
+GB-0571,GB0571,,Wild/Landrace,,Peru,Loreto,"Iquitos, Manacamiri Village",-3.73,-73.24,Lanrace2
+GB-0320,GB0320,,Wild/Landrace,,Peru,Tumbes,Tumbes,-3.56,-80.43,Lanrace1
+GB-0333,GB0333,,Wild/Landrace,,Peru,Ilo valley,,-17.58,-71.21,Lanrace1
+GB-0335,GB0335,,Wild/Landrace,,Peru,Arequipa,Mollendo,-17.02,-72.01,Lanrace1
+GB-0358,GB0358,,Wild/Landrace,,Peru,Cuzco,Uchumago,-13.19,-72.17,Lanrace2
+GB-0542,GB0542,,Wild/Landrace,,Peru,La Libertad,San Pedro De Loc,-7.43,-79.50,Wild
+GB-0087,GB0087,,Wild/Landrace,,Peru,Loreto,San Bernardino on Rio Purus,-4.12,-74.43,Lanrace2
+GB-1063,GB1063,Pardo  (From UC-8),Wild/Landrace,,Peru,Loreto,Iquitos,-3.73,-73.24,Lanrace2
+GB-1067,GB1067,Copa De Vino (From UC-9),Wild/Landrace,,Peru,Loreto,Iquitos,-3.73,-73.24,Wild
+olg2_2,olg2_2,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_3,olg2_3,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_4,olg2_4,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_5,olg2_5,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_6,olg2_6,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_8,olg2_8,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_10,olg2_10,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_12,olg2_12,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_13,olg2_13,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_14,olg2_14,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_15,olg2_15,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_17,olg2_17,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+olg2_18,olg2_18,,Wild/Landrace,,Peru,,,-9.17,-74.36,Wild
+GB287,GB0287,,Wild/Landrace,,Belize,,,17.20,-88.71,Lanrace2
+GB414,GB0414,,Wild/Landrace,,Peru,Tumbes,Aguas Verdes,-3.49,-80.26,Lanrace1
+GB427,GB0427,Tanguis CN (W) 748-60,Wild/Landrace,,Brazil,Pernambuco,Recife,-8.06,-34.87,Lanrace2
+GB618,GB0618,AS-828,Wild/Landrace,,Ecuador,Guayas,,-2.19,-79.91,Lanrace2
+K101,K101,GB-0095,Wild/Landrace,,Bolivia,,,-16.71,-64.66,Lanrace2
+light_brown,light_brown,,Wild/Landrace,,Chile,,,-35.24,-71.22,Lanrace1
+phy76,phy76,PHY 76 Pima,Cultivar,,United States,California,,37.26,-119.62,Cultivar
+P221GB0074,GB0074,GB0074,Wild/Landrace,,Peru,,,-9.19,-75.02,Lanrace2
+P211GB0236,GB0236,GB0236,Cultivar,,Egypt,,,26.82,30.80,Cultivar
+P221GB0287,GB0287,GB0287,Wild/Landrace,,Honduras,Punta Gorda,,16.32,-86.54,Lanrace2
+P221GB0362,GB0362,GB0362,Wild/Landrace,,Brazil,,,-14.24,-51.93,Lanrace2
+P221GB0369,GB0369,GB0369,Wild/Landrace,,Colombia,,,4.57,-74.30,Lanrace1
+P221GB0385,GB0385,GB0385,Wild/Landrace,,Venezuela,,,6.42,-66.59,Lanrace2
+P221GB0398,GB0398,GB0398,Wild/Landrace,,Peru,,,-9.19,-75.02,Lanrace2
+P221GB0411,GB0411,GB0411,Wild/Landrace,,Peru,,,-9.19,-75.02,Lanrace1
+P221GB0414,GB0414,GB0414,Wild/Landrace,,Peru,,,-9.19,-75.02,Lanrace1
+P221GB0427,GB0427,GB0427,Wild/Landrace,,Brazil,,,-14.24,-51.93,Lanrace2
+P221GB0618,GB0618,GB0618,Wild/Landrace,,Ecuador,Guayas,,-1.96,-79.92,Lanrace2
+P211DP0340,Deltapine-340,Deltapine-340,Cultivar,,USA,Arizona,,32.78,-110.42,Cultivar
+P211PHY76,Phytogen-76,Phytogen-76,Cultivar,,USA,California,,36.78,-119.42,Cultivar
+P214GB1030,G. barbadense Pima S6,G. barbadense Pima S6,Cultivar,,United States,Arizona,,34.05,-111.09,Cultivar
+P224K101,G. barbadense K101,G. barbadense K101,Wild/Landrace,,Bolivia,,,-16.71,-64.66,Lanrace2
+P216JunH1,Junhai 1#,Junhai 1#,Cultivar,,China,,,40.00,82.00,Cultivar
