@@ -21,9 +21,13 @@ samtools sort ${SID}.bam ${SID}.sort
 
 samtools index ${SID}.sort.bam
 
-${java_path} -Xmx120g -jar $gtk_path -R $ref_file -T RealignerTargetCreator -o ${SID}.realn.intervals -I ${SID}.sort.bam >${SID}.realn.intervals.log 2>&1
+${java_path} -Xmx120g -jar $picard_path MarkDuplicates I=${SID}.sort.bam O=${SID}.sort.rm_duplicates.bam M=${SID}.sort.rm_dup_metrics.txt VALIDATION_STRINGENCY=LENIENT REMOVE_DUPLICATES=true
 
-${java_path} -Xmx120g -jar $gtk_path -R $ref_file -T IndelRealigner -targetIntervals ${SID}.realn.intervals -o ${SID}.realn.bam -I ${SID}.sort.bam >${SID}.realn.bam.log 2>&1
+samtools index ${SID}.sort.rm_duplicates.bam
+
+${java_path} -Xmx120g -jar $gtk_path -R $ref_file -T RealignerTargetCreator -o ${SID}.realn.intervals -I ${SID}.sort.rm_duplicates.bam >${SID}.realn.intervals.log 2>&1
+
+${java_path} -Xmx120g -jar $gtk_path -R $ref_file -T IndelRealigner -targetIntervals ${SID}.realn.intervals -o ${SID}.realn.bam -I ${SID}.sort.rm_duplicates.bam >${SID}.realn.bam.log 2>&1
 
 echo "End Time:";date
 
