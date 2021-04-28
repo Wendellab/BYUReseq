@@ -4,3 +4,11 @@ The two cultivated allopolyploid cotton species, <i>Gossypium hirsutum</i> and <
 Here, we employed high-coverage whole genome resequencing for 643 accessions of polyploid cotton, and analyzed a total of 1,024 accessions including 795 accessions of G. hirsutum and 201 accessions of G. barbadense, and 28 other tetraploids for the present study (others from (Page et al. 2016; Fang et al. 2017a, 2017b; Wang et al. 2017). Our sampling is distinguished from previous studies by included representatives of all seven (Grover et al. 2015b; Wendel and Grover 2015; Gallagher et al. 2017) tetraploid species but particularly because we focused on extensive sampling of G. barbadense and G. hirsutum populations spanning the wild-to-domesticated continuum. We used these data to address the following questions: (1) How much diversity exists in the wild, landrace, and modern cultivated gene pools of the two most agronomically important cotton species? (2) What inferences can be made about the geographic origin of domestication, and how much of the wild diversity has been captured following the multiple genetic bottlenecks accompanying domestication and improvement? (3) How much of the winnowing of variation has been counteracted by historical, human-mediated interspecific gene flow between the two species, which became sympatric in parts of their indigenous ranges following dispersal from their ancestral homes? In addition, we used these data to detect historically important genomic regions of domestication and of historical interspecific introgression. 
 
 This repo hosts methods, parameters, and data files relevant to this project.
+
+**Data available**
+All the reads were deposited in NCBI SRA with project accession no. PRJNA414461 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA414461).
+
+**How to cite**
+Yuan, D., Grover, C. E., Hu, G., Pan, M., Miller, E. R., Conover, J. L., Hunt, S. P., Udall, J. A., Wendel, J. F., Parallel and Intertwining Threads of Domestication in Allopolyploid Cotton. Adv. Sci. 2021, 2003634. https://doi.org/10.1002/advs.202003634
+
+
