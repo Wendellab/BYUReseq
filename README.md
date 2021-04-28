@@ -5,10 +5,10 @@ Here, we employed high-coverage whole genome resequencing for 643 accessions of 
 
 This repo hosts methods, parameters, and data files relevant to this project.
 
-**Data available**
+**Data available:**
 All the reads were deposited in NCBI SRA with project accession no. PRJNA414461 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA414461).
 
-**How to cite**
+**How to cite:**
 Yuan, D., Grover, C. E., Hu, G., Pan, M., Miller, E. R., Conover, J. L., Hunt, S. P., Udall, J. A., Wendel, J. F., Parallel and Intertwining Threads of Domestication in Allopolyploid Cotton. Adv. Sci. 2021, 2003634. https://doi.org/10.1002/advs.202003634
 
 
